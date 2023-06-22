@@ -9,7 +9,7 @@ const data = require('./COMPENDIUM.json');
 
 app.get('/entry/:entryname', (req, res) => {
 
-    const entry = req.params.entryname;
+    const entry = req.params.entryname.replace(/ /g,"_").toLowerCase();
 
     console.log(`User with IP ${req.ip} requested /entry/${entry}`)
 
