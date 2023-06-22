@@ -1,5 +1,6 @@
 require('dotenv').config()
 const axios = require('axios');
+const cors = require('cors')
 const express = require('express');
 const app = express();
 const PORT = 8080;
@@ -7,6 +8,7 @@ const PORT = 8080;
 let requestNum = 0;
 
 app.set('trust proxy', true)
+app.use(cors())
 
 const data = require('./COMPENDIUM.json');
 
