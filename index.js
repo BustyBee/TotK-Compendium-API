@@ -5,7 +5,6 @@ const PORT = 8080;
 let requestNum = 0;
 
 app.set('trust proxy', true)
-app.use(cors())
 
 const data = require('./COMPENDIUM.json');
 
