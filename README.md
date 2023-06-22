@@ -5,7 +5,7 @@ Because of this, **please don't make any huge projects that rely on this API!**
 <br>
 </br>
 
-|  |  |
+| Endpoint | URL |
 | ------ | ------ |
 | API Base URL: | https://totk-compendium.cyclic.app/ |
 | Get all entries: | https://totk-compendium.cyclic.app/all |
