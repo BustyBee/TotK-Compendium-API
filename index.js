@@ -10,7 +10,8 @@ let requestNum = 0;
 app.set('trust proxy', true)
 app.use(cors())
 
-const data = require('./COMPENDIUM.json');
+const data = require('./data/COMPENDIUM.json')
+const allList = require('./data/entries_sorted.json')
 
 
 app.get('/entry/:entryname', (req, res) => {
@@ -24,13 +25,13 @@ app.get('/entry/:entryname', (req, res) => {
     res.status(200).send(data[entry]);
 });
 
-app.get('/all/', (req, res) => {
+app.get('/all', (req, res) => {
 
     requestNum += 1;
     sendToWebhook(requestNum, req.ip, 'all');
     console.log(`${requestNum} requests since last build | IP ${req.ip} /all`);
 
-    res.status(200).send(data);
+    res.status(200).send(allList);
 });
 
 
