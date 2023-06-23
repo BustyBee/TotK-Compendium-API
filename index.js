@@ -5,8 +5,6 @@ const express = require('express');
 const app = express();
 const PORT = 8080;
 
-let requestNum = 0;
-
 app.set('trust proxy', true)
 app.use(cors())
 
@@ -18,18 +16,20 @@ app.get('/entry/:entryname', (req, res) => {
 
     const entry = req.params.entryname.replace(/ /g,"_").toLowerCase();
 
-    requestNum += 1;
-    sendToWebhook(requestNum, req.ip, 'entry/'+entry);
-    console.log(`${requestNum} requests since last build | IP ${req.ip} requested /entry/${entry}`)
+    sendToWebhook(req.ip, '/entry/'+entry);
+    console.log(`New request | IP ${req.ip} requested /entry/${entry}`)
+
+    if (data[entry] === undefined){
+        return res.status(400).send({message: "Entry not found"}); 
+    }
 
     res.status(200).send(data[entry]);
 });
 
 app.get('/all', (req, res) => {
 
-    requestNum += 1;
-    sendToWebhook(requestNum, req.ip, 'all');
-    console.log(`${requestNum} requests since last build | IP ${req.ip} /all`);
+    sendToWebhook(req.ip, '/all');
+    console.log(`New request | IP ${req.ip} /all`);
 
     res.status(200).send(allList);
 });
@@ -40,13 +40,13 @@ app.listen(
     () => console.log(`API alive on port ${PORT}`)
 );
 
-function sendToWebhook(reqnum,ip, endoint){
+function sendToWebhook(ip, endoint){
     axios.post(process.env.WEBHOOKURL, {
         username: "TotK Compendium API",
         avatar_url: "",
         embeds: [
             {
-                "title": `${reqnum} requests since last build`,
+                "title": "New request",
                 "color": 15258703,
                 "fields": [
                     {
