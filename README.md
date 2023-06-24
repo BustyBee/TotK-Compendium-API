@@ -29,18 +29,16 @@ Because of this, **please don't make any huge projects that rely on this API!**
 /entry/hateno_cow
 ```json
 {
-    "name":"Hateno Cow",
-    "description":
-    "Originating in Hateno Village, these cows are kept as livestock primarily for their milk. Their horns are smaller than a water buffalo's, and they're much more docile and therefore easier to raise. Their horns are decorated with bright colors when taken out to pasture.","image":
-    "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Cow_A_Detail.png",
-    "thumbnail":
-    "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Cow_A_Icon.png",
-    "category":"Animal",
-    "gamename":"Animal_Cow_A",
-    "locations":[
+    "name": "Hateno Cow",
+    "description": "Originating in Hateno Village, these cows are kept as livestock primarily for their milk. Their horns are smaller than a water buffalo's, and they're much more docile and therefore easier to raise. Their horns are decorated with bright colors when taken out to pasture.",
+    "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Cow_A_Detail.png",
+    "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Cow_A_Icon.png",
+    "category": "Animal",
+    "gamename": "Animal_Cow_A",
+    "locations": [
         "Hateno Village",
         "Lurelin Village"
-        ]
+    ]
 }
 ```
 
