@@ -10,7 +10,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Bear_A_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Bear_A",
-        "loactions": [
+        "locations": [
             "Hyrule Ridge",
             "West Necluda"
         ]
@@ -22,7 +22,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Bear_B_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Bear_B",
-        "loactions": [
+        "locations": [
             "Hebra Mountains",
             "Gerudo Highlands"
         ]
@@ -34,7 +34,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Boar_A_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Boar_A",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "West Necluda"
         ]
@@ -46,7 +46,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Boar_B_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Boar_B",
-        "loactions": [
+        "locations": [
             "Hyrule Ridge",
             "Akkala Highlands"
         ]
@@ -58,7 +58,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Bull_A_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Bull_A",
-        "loactions": [
+        "locations": [
             "Lanayru Wetlands",
             "Hyrule Ridge"
         ]
@@ -70,7 +70,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Cassowary_A_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Cassowary_A",
-        "loactions": [
+        "locations": [
             "Death Mountain",
             "Eldin Mountains"
         ]
@@ -82,7 +82,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Cow_A_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Cow_A",
-        "loactions": [
+        "locations": [
             "Hateno Village",
             "Lurelin Village"
         ]
@@ -94,7 +94,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Crow_A_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Crow_A",
-        "loactions": [
+        "locations": [
             "Great Hyrule Forest",
             "Hyrule Ridge"
         ]
@@ -106,7 +106,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Deer_A_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Deer_A",
-        "loactions": [
+        "locations": [
             "Lanayru",
             "Hyrule Field"
         ]
@@ -118,7 +118,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Doe_A_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Doe_A",
-        "loactions": [
+        "locations": [
             "Lanayru",
             "Hyrule Field"
         ]
@@ -130,7 +130,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Dog_A_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Dog_A",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Elclin Canyon"
         ]
@@ -142,7 +142,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Elk_A_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Elk_A",
-        "loactions": [
+        "locations": [
             "Tabantha Tundra",
             "Hebra Mountains"
         ]
@@ -154,7 +154,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Fox_A_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Fox_A",
-        "loactions": [
+        "locations": [
             "Hyrule Ridge",
             "Lanayru Great Spring"
         ]
@@ -166,7 +166,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Fox_B_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Fox_B",
-        "loactions": [
+        "locations": [
             "Hebra Mountains",
             "Tabantha Frontier"
         ]
@@ -178,7 +178,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Goat_A_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Goat_A",
-        "loactions": [
+        "locations": [
             "East Necluda",
             "Hyrule Ridge"
         ]
@@ -190,7 +190,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Gull_A_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Gull_A",
-        "loactions": [
+        "locations": [
             "Necluda Sea",
             "Lanayru Sea"
         ]
@@ -202,7 +202,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Hawk_A_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Hawk_A",
-        "loactions": [
+        "locations": [
             "Hyrule Ridge",
             "Gerudo Canyon"
         ]
@@ -214,7 +214,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Heron_A_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Heron_A",
-        "loactions": [
+        "locations": [
             "Great Sky Island",
             "Lanayru Wetlands"
         ]
@@ -226,7 +226,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Heron_B_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Heron_B",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Central Hyrule Sky"
         ]
@@ -238,7 +238,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Insect_AA_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Insect_AA",
-        "loactions": [
+        "locations": [
             "Great Sky Island",
             "West Necluda"
         ]
@@ -250,7 +250,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Insect_AB_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Insect_AB",
-        "loactions": [
+        "locations": [
             "Death Mountain",
             "Elclin Canyon"
         ]
@@ -262,7 +262,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Insect_AG_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Insect_AG",
-        "loactions": [
+        "locations": [
             "West Necluda",
             "Lanayru Great Spring"
         ]
@@ -274,7 +274,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Insect_AH_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Insect_AH",
-        "loactions": [
+        "locations": [
             "Hyrule Caves"
         ]
     },
@@ -285,7 +285,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Insect_AI_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Insect_AI",
-        "loactions": [
+        "locations": [
             "Great Abandoned Central Mine",
             "Lanayru Wetlands Depths"
         ]
@@ -297,7 +297,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Insect_A_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Insect_A",
-        "loactions": [
+        "locations": [
             "Lanayru Great Spring",
             "East Necluda"
         ]
@@ -309,7 +309,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Insect_B_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Insect_B",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Zora River"
         ]
@@ -321,7 +321,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Insect_C_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Insect_C",
-        "loactions": [
+        "locations": [
             "Gerudo Highlands",
             "Mount Lanayru"
         ]
@@ -333,7 +333,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Insect_E_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Insect_E",
-        "loactions": [
+        "locations": [
             "Faron Grasslands",
             "East Necluda"
         ]
@@ -345,7 +345,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Insect_F_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Insect_F",
-        "loactions": [
+        "locations": [
             "Hyrule Caves",
             "Hyrule Sky fslands"
         ]
@@ -357,7 +357,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Insect_G_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Insect_G",
-        "loactions": [
+        "locations": [
             "West Necluda",
             "East Necluda"
         ]
@@ -369,7 +369,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Insect_H_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Insect_H",
-        "loactions": [
+        "locations": [
             "Great Sky Island",
             "Hyrule Field"
         ]
@@ -381,7 +381,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Insect_I_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Insect_I",
-        "loactions": [
+        "locations": [
             "Thunderhead Isles",
             "West Necluda"
         ]
@@ -393,7 +393,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Insect_M_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Insect_M",
-        "loactions": [
+        "locations": [
             "Gerudo Highlands",
             "East Necluda"
         ]
@@ -405,7 +405,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Insect_N_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Insect_N",
-        "loactions": [
+        "locations": [
             "Gerudo Highlands",
             "Mount Lanayru"
         ]
@@ -417,7 +417,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Insect_P_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Insect_P",
-        "loactions": [
+        "locations": [
             "West Necluda",
             "East Necluda"
         ]
@@ -429,7 +429,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Insect_Q_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Insect_Q",
-        "loactions": [
+        "locations": [
             "Eldin Canyon",
             "Gerudo Highlands"
         ]
@@ -441,7 +441,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Insect_R_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Insect_R",
-        "loactions": [
+        "locations": [
             "Thunderhead Isles",
             "Faron Grasslands"
         ]
@@ -453,7 +453,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Insect_S_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Insect_S",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Hyrule Ridge"
         ]
@@ -465,7 +465,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Insect_T_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Insect_T",
-        "loactions": [
+        "locations": [
             "Akkala Highlands",
             "Faron Grasslands"
         ]
@@ -477,7 +477,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Insect_X_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Insect_X",
-        "loactions": [
+        "locations": [
             "Eldin Canyon",
             "Eldin Mountains"
         ]
@@ -489,7 +489,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Kokko_A_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Kokko_A",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "West Necluda"
         ]
@@ -501,7 +501,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_LittleBird_A_Icon.png",
         "category": "Animal",
         "gamename": "Animal_LittleBird_A",
-        "loactions": [
+        "locations": [
             "Hyrule Ridge",
             "Lanayru Great Spring"
         ]
@@ -513,7 +513,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_LittleBird_B_Icon.png",
         "category": "Animal",
         "gamename": "Animal_LittleBird_B",
-        "loactions": [
+        "locations": [
             "Hebra Mountains",
             "Hyrule Ridge"
         ]
@@ -525,7 +525,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_LittleBird_C_Icon.png",
         "category": "Animal",
         "gamename": "Animal_LittleBird_C",
-        "loactions": [
+        "locations": [
             "Lanayru Great Spring",
             "East Necluda"
         ]
@@ -537,7 +537,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_LittleBird_D_Icon.png",
         "category": "Animal",
         "gamename": "Animal_LittleBird_D",
-        "loactions": [
+        "locations": [
             "Faron Grasslands",
             "East Necluda"
         ]
@@ -549,7 +549,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_LittleBird_E_Icon.png",
         "category": "Animal",
         "gamename": "Animal_LittleBird_E",
-        "loactions": [
+        "locations": [
             "Gerudo Desert"
         ]
     },
@@ -560,7 +560,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_LittleBird_F_Icon.png",
         "category": "Animal",
         "gamename": "Animal_LittleBird_F",
-        "loactions": [
+        "locations": [
             "Eldin Canyon",
             "Great Sky Island"
         ]
@@ -572,7 +572,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Pao_A_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Pao_A",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -583,7 +583,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Pigeon_A_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Pigeon_A",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Hyrule Ridge"
         ]
@@ -595,7 +595,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Pigeon_B_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Pigeon_B",
-        "loactions": [
+        "locations": [
             "Hyrule Ridge",
             "Akkala Highlands"
         ]
@@ -607,7 +607,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Ptarmigan_A_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Ptarmigan_A",
-        "loactions": [
+        "locations": [
             "Hebra Mountains",
             "Gerudo Highlands"
         ]
@@ -619,7 +619,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Ptarmigan_B_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Ptarmigan_B",
-        "loactions": [
+        "locations": [
             "Eldin Sky Archipelago",
             "Eldin Canyon"
         ]
@@ -631,7 +631,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_RupeeRabbit_A_Icon.png",
         "category": "Animal",
         "gamename": "Animal_RupeeRabbit_A",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -642,7 +642,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Sheep_A_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Sheep_A",
-        "loactions": [
+        "locations": [
             "East Necluda",
             "Akkala Highlands"
         ]
@@ -654,7 +654,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_SkyCassowary_A_Icon.png",
         "category": "Animal",
         "gamename": "Animal_SkyCassowary_A",
-        "loactions": [
+        "locations": [
             "Great Sky Island",
             "South Lanayru Sky Archipelago"
         ]
@@ -666,7 +666,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_SkyGull_A_Icon.png",
         "category": "Animal",
         "gamename": "Animal_SkyGull_A",
-        "loactions": [
+        "locations": [
             "Great Sky Island",
             "North Necluda Sky Archipelago"
         ]
@@ -678,7 +678,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_SkyPigeon_A_Icon.png",
         "category": "Animal",
         "gamename": "Animal_SkyPigeon_A",
-        "loactions": [
+        "locations": [
             "Great Sky Island",
             "East Gerudo Sky Archipelago"
         ]
@@ -690,7 +690,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Squirrel_A_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Squirrel_A",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Satori Mountain"
         ]
@@ -702,7 +702,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_SunazarashiSP_C_Icon.png",
         "category": "Animal",
         "gamename": "Animal_SunazarashiSP_C",
-        "loactions": [
+        "locations": [
             "Gerudo Town"
         ]
     },
@@ -713,7 +713,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Sunazarashi_A_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Sunazarashi_A",
-        "loactions": [
+        "locations": [
             "Gerudo Desert"
         ]
     },
@@ -724,7 +724,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_WildDuck_A_Icon.png",
         "category": "Animal",
         "gamename": "Animal_WildDuck_A",
-        "loactions": [
+        "locations": [
             "Hyrule Ridge",
             "Lanayru Wetlands"
         ]
@@ -736,7 +736,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_WildGoat_A_Icon.png",
         "category": "Animal",
         "gamename": "Animal_WildGoat_A",
-        "loactions": [
+        "locations": [
             "East Necluda",
             "Great Hyrule Forest"
         ]
@@ -748,7 +748,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Wolf_A_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Wolf_A",
-        "loactions": [
+        "locations": [
             "Tabantha Frontier",
             "Eldin Canyon"
         ]
@@ -760,7 +760,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Wolf_B_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Wolf_B",
-        "loactions": [
+        "locations": [
             "Gerudo Desert",
             "Gerudo Highlands"
         ]
@@ -772,7 +772,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Animal_Wolf_C_Icon.png",
         "category": "Animal",
         "gamename": "Animal_Wolf_C",
-        "loactions": [
+        "locations": [
             "Hebra Mountains",
             "Gerudo Highlands"
         ]
@@ -784,7 +784,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/BeeHome_Icon.png",
         "category": "Item",
         "gamename": "BeeHome",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "East Necluda"
         ]
@@ -796,7 +796,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/BombFruit_Icon.png",
         "category": "Item",
         "gamename": "BombFruit",
-        "loactions": [
+        "locations": [
             "Hyrule Caves",
             "The Depths"
         ]
@@ -808,7 +808,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/ConfusionFruit_Icon.png",
         "category": "Item",
         "gamename": "ConfusionFruit",
-        "loactions": [
+        "locations": [
             "The Depths"
         ]
     },
@@ -819,7 +819,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/ElectricalFruit_Icon.png",
         "category": "Item",
         "gamename": "ElectricalFruit",
-        "loactions": [
+        "locations": [
             "East Necluda",
             "Gerudo Desert"
         ]
@@ -831,7 +831,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Assassin_Junior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Assassin_Junior",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -842,7 +842,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Assassin_Middle_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Assassin_Middle",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -853,7 +853,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Assassin_Senior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Assassin_Senior",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -864,7 +864,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Bokoblin_Bone_Junior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Bokoblin_Bone_Junior",
-        "loactions": [
+        "locations": [
             "Great Hyrule Forest",
             "Gerudo Desert Depths"
         ]
@@ -876,7 +876,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Bokoblin_Boss_Dark_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Bokoblin_Boss_Dark",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -887,7 +887,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Bokoblin_Boss_Junior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Bokoblin_Boss_Junior",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Hyrule Ridge"
         ]
@@ -899,7 +899,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Bokoblin_Boss_Middle_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Bokoblin_Boss_Middle",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Lanayru Great Spring"
         ]
@@ -911,7 +911,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Bokoblin_Boss_Senior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Bokoblin_Boss_Senior",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "East Necluda"
         ]
@@ -923,7 +923,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Bokoblin_Dark_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Bokoblin_Dark",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -934,7 +934,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Bokoblin_Junior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Bokoblin_Junior",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Central Hyrule Depths"
         ]
@@ -946,7 +946,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Bokoblin_Middle_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Bokoblin_Middle",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Elcin Canyon"
         ]
@@ -958,7 +958,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Bokoblin_Senior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Bokoblin_Senior",
-        "loactions": [
+        "locations": [
             "Gerudo Desert",
             "Hyrule Ridge Depths"
         ]
@@ -970,7 +970,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_CDungeon_Practice_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_CDungeon_Practice",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -981,7 +981,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_CaveMaster_000_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_CaveMaster_000",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -992,7 +992,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Chuchu_Electric_Junior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Chuchu_Electric_Junior",
-        "loactions": [
+        "locations": [
             "West Necluda",
             "Gerudo Desert"
         ]
@@ -1004,7 +1004,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Chuchu_Fire_Junior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Chuchu_Fire_Junior",
-        "loactions": [
+        "locations": [
             "Eldin Canyon",
             "Elclin Mountains"
         ]
@@ -1016,7 +1016,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Chuchu_Ice_Junior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Chuchu_Ice_Junior",
-        "loactions": [
+        "locations": [
             "Hebra Mountains",
             "Gerudo Highlands"
         ]
@@ -1028,7 +1028,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Chuchu_Junior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Chuchu_Junior",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "East Necluda"
         ]
@@ -1040,7 +1040,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Dragon_Darkness_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Dragon_Darkness",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -1051,7 +1051,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Dragon_Electric_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Dragon_Electric",
-        "loactions": [
+        "locations": [
             "Lake Hylia",
             "Gerudo Canyon"
         ]
@@ -1063,7 +1063,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Dragon_Fire_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Dragon_Fire",
-        "loactions": [
+        "locations": [
             "Eldin Mountains",
             "Deep Akkala"
         ]
@@ -1075,7 +1075,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Dragon_Ice_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Dragon_Ice",
-        "loactions": [
+        "locations": [
             "East Necluda",
             "Mount Lanayru"
         ]
@@ -1087,7 +1087,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Dragon_Light_001_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Dragon_Light_001",
-        "loactions": [
+        "locations": [
             "Greater Hyrule"
         ]
     },
@@ -1098,7 +1098,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Drake_Electric_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Drake_Electric",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Faron Grasslands"
         ]
@@ -1110,7 +1110,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Drake_Fire_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Drake_Fire",
-        "loactions": [
+        "locations": [
             "Elcin Canyon",
             "Lake Hylia"
         ]
@@ -1122,7 +1122,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Drake_Ice_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Drake_Ice",
-        "loactions": [
+        "locations": [
             "Gerudo Highlands",
             "Hebra Mountains"
         ]
@@ -1134,7 +1134,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Drake_Mix_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Drake_Mix",
-        "loactions": [
+        "locations": [
             "Gerudo Desert Sky",
             "Necluda Sea Sky"
         ]
@@ -1146,7 +1146,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_DungeonBoss_Gerudo_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_DungeonBoss_Gerudo",
-        "loactions": [
+        "locations": [
             "Lightning Temple"
         ]
     },
@@ -1157,7 +1157,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_DungeonBoss_Goron_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_DungeonBoss_Goron",
-        "loactions": [
+        "locations": [
             "Fire Temple"
         ]
     },
@@ -1168,7 +1168,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_DungeonBoss_Rito_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_DungeonBoss_Rito",
-        "loactions": [
+        "locations": [
             "Wind Temple"
         ]
     },
@@ -1179,7 +1179,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_DungeonBoss_Zonau_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_DungeonBoss_Zonau",
-        "loactions": [
+        "locations": [
             "Spirit Temple"
         ]
     },
@@ -1190,7 +1190,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_DungeonBoss_Zora_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_DungeonBoss_Zora",
-        "loactions": [
+        "locations": [
             "Water Temple"
         ]
     },
@@ -1201,7 +1201,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Ganondorf_Miasma_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Ganondorf_Miasma",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -1212,7 +1212,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Ganondorf_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Ganondorf",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -1223,7 +1223,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Giant_Bone_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Giant_Bone",
-        "loactions": [
+        "locations": [
             "East Necluda",
             "Central Hyrule Depths"
         ]
@@ -1235,7 +1235,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Giant_Junior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Giant_Junior",
-        "loactions": [
+        "locations": [
             "Hyrule Ridge",
             "West Necluda"
         ]
@@ -1247,7 +1247,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Giant_Middle_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Giant_Middle",
-        "loactions": [
+        "locations": [
             "East Necluda Depths",
             "West Necluda"
         ]
@@ -1259,7 +1259,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Giant_Senior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Giant_Senior",
-        "loactions": [
+        "locations": [
             "East Necluda",
             "West Necluda Depths"
         ]
@@ -1271,7 +1271,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Golem_Fire_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Golem_Fire",
-        "loactions": [
+        "locations": [
             "Eldin Canyon",
             "Elclin Canyon Depths"
         ]
@@ -1283,7 +1283,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Golem_Fort_A_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Golem_Fort_A",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Tabantha Frontier Depths"
         ]
@@ -1295,7 +1295,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Golem_Ice_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Golem_Ice",
-        "loactions": [
+        "locations": [
             "Gerudo Highlands",
             "Hebra Mountains"
         ]
@@ -1307,7 +1307,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Golem_Junior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Golem_Junior",
-        "loactions": [
+        "locations": [
             "Gerudo Highlands Depths",
             "Tabantha Frontier"
         ]
@@ -1319,7 +1319,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Golem_Little_Fire_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Golem_Little_Fire",
-        "loactions": [
+        "locations": [
             "Eldin Canyon",
             "Elcin Canyon Depths"
         ]
@@ -1331,7 +1331,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Golem_Little_Ice_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Golem_Little_Ice",
-        "loactions": [
+        "locations": [
             "Gerudo Highlands",
             "Hebra Mountains"
         ]
@@ -1343,7 +1343,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Golem_Little_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Golem_Little",
-        "loactions": [
+        "locations": [
             "Greater Hyrule"
         ]
     },
@@ -1354,7 +1354,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Golem_Middle_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Golem_Middle",
-        "loactions": [
+        "locations": [
             "Tabantha Frontier",
             "Lanayru Great Spring"
         ]
@@ -1366,7 +1366,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Golem_Senior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Golem_Senior",
-        "loactions": [
+        "locations": [
             "Gerudo Highlands",
             "Faron Grasslands"
         ]
@@ -1378,7 +1378,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Horablin_Dark_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Horablin_Dark",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -1389,7 +1389,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Horablin_Junior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Horablin_Junior",
-        "loactions": [
+        "locations": [
             "Hyrule Caves",
             "Elelin Canyon Depths"
         ]
@@ -1401,7 +1401,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Horablin_Middle_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Horablin_Middle",
-        "loactions": [
+        "locations": [
             "Hyrule Caves",
             "Death Mountain Depths"
         ]
@@ -1413,7 +1413,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Horablin_Senior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Horablin_Senior",
-        "loactions": [
+        "locations": [
             "Hyrule Caves",
             "Gerudo Desert Depths"
         ]
@@ -1425,7 +1425,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Keese_Electric_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Keese_Electric",
-        "loactions": [
+        "locations": [
             "Gerudo Desert",
             "Gerudo Desert Depths"
         ]
@@ -1437,7 +1437,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Keese_Fire_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Keese_Fire",
-        "loactions": [
+        "locations": [
             "Eldin Mountains",
             "Eldin Mountains Depths"
         ]
@@ -1449,7 +1449,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Keese_Ice_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Keese_Ice",
-        "loactions": [
+        "locations": [
             "Hebra Mountains",
             "Mount Lanayru"
         ]
@@ -1461,7 +1461,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Keese_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Keese",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "West Necluda"
         ]
@@ -1473,7 +1473,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_LikeLike_Crack_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_LikeLike_Crack",
-        "loactions": [
+        "locations": [
             "Eldin Mountains",
             "Lanayru Wetlands"
         ]
@@ -1485,7 +1485,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_LikeLike_Electric_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_LikeLike_Electric",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "East Necluda"
         ]
@@ -1497,7 +1497,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_LikeLike_Fire_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_LikeLike_Fire",
-        "loactions": [
+        "locations": [
             "Eldin Mountains",
             "Eldin Mountains Depths"
         ]
@@ -1509,7 +1509,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_LikeLike_Ice_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_LikeLike_Ice",
-        "loactions": [
+        "locations": [
             "Mount Lanayru",
             "Gerudo Highlands"
         ]
@@ -1521,7 +1521,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_LikeLike_Plane_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_LikeLike_Plane",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "East Necluda"
         ]
@@ -1533,7 +1533,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_LikeLike_Tar_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_LikeLike_Tar",
-        "loactions": [
+        "locations": [
             "Lanayru Great Spring"
         ]
     },
@@ -1544,7 +1544,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Lizalfos_Bone_Junior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Lizalfos_Bone_Junior",
-        "loactions": [
+        "locations": [
             "Lanayru Wetlands",
             "Lanayru Great Spring"
         ]
@@ -1556,7 +1556,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Lizalfos_Dark_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Lizalfos_Dark",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -1567,7 +1567,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Lizalfos_Electric_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Lizalfos_Electric",
-        "loactions": [
+        "locations": [
             "Gerudo Desert",
             "Faron"
         ]
@@ -1579,7 +1579,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Lizalfos_Fire_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Lizalfos_Fire",
-        "loactions": [
+        "locations": [
             "Eldin Canyon",
             "Gerudo Highlands"
         ]
@@ -1591,7 +1591,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Lizalfos_Ice_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Lizalfos_Ice",
-        "loactions": [
+        "locations": [
             "Hebra Mountains",
             "Gerudo Highlands"
         ]
@@ -1603,7 +1603,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Lizalfos_Junior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Lizalfos_Junior",
-        "loactions": [
+        "locations": [
             "Lanayru Wetlands",
             "Lanayru Great Spring"
         ]
@@ -1615,7 +1615,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Lizalfos_Middle_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Lizalfos_Middle",
-        "loactions": [
+        "locations": [
             "Mount Lanayru",
             "Akkala Highlands Depths"
         ]
@@ -1627,7 +1627,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Lizalfos_Senior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Lizalfos_Senior",
-        "loactions": [
+        "locations": [
             "Gerudo Desert",
             "East Necluda"
         ]
@@ -1639,7 +1639,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Lynel_Dark_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Lynel_Dark",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -1650,7 +1650,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Lynel_Junior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Lynel_Junior",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Central Hyrule Depths"
         ]
@@ -1662,7 +1662,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Lynel_Middle_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Lynel_Middle",
-        "loactions": [
+        "locations": [
             "Lanayru Great Spring",
             "Eldin Canyon Depths"
         ]
@@ -1674,7 +1674,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Lynel_Senior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Lynel_Senior",
-        "loactions": [
+        "locations": [
             "Faron Grasslands Depths",
             "Central Hyrule Depths"
         ]
@@ -1686,7 +1686,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_MiddleBoss_Goron_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_MiddleBoss_Goron",
-        "loactions": [
+        "locations": [
             "Death Mountain"
         ]
     },
@@ -1697,7 +1697,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Mogurudo_Baby_Junior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Mogurudo_Baby_Junior",
-        "loactions": [
+        "locations": [
             "The Depths"
         ]
     },
@@ -1708,7 +1708,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Mogurudo_Junior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Mogurudo_Junior",
-        "loactions": [
+        "locations": [
             "Gerudo Highlands Depths",
             "Central Hyrule Depths"
         ]
@@ -1720,7 +1720,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Mogurudo_Middle_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Mogurudo_Middle",
-        "loactions": [
+        "locations": [
             "Gerudo Desert Depths",
             "Hyrule Ridge Depths"
         ]
@@ -1732,7 +1732,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Mogurudo_Senior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Mogurudo_Senior",
-        "loactions": [
+        "locations": [
             "Hebra Mountains Depths",
             "Tabantha Frontier Depths"
         ]
@@ -1744,7 +1744,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Moriblin_Bone_Junior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Moriblin_Bone_Junior",
-        "loactions": [
+        "locations": [
             "Great Hyrule Forest",
             "Deep Akkala Depths"
         ]
@@ -1756,7 +1756,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Moriblin_Dark_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Moriblin_Dark",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -1767,7 +1767,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Moriblin_Junior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Moriblin_Junior",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Central Hyrule Depths"
         ]
@@ -1779,7 +1779,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Moriblin_Middle_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Moriblin_Middle",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Eldin Canyon"
         ]
@@ -1791,7 +1791,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Moriblin_Senior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Moriblin_Senior",
-        "loactions": [
+        "locations": [
             "Gerudo Highlands",
             "Deep Akkala"
         ]
@@ -1803,7 +1803,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Octarock_Desert_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Octarock_Desert",
-        "loactions": [
+        "locations": [
             "Faron Grasslands",
             "Gerudo Highlands"
         ]
@@ -1815,7 +1815,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Octarock_Forest_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Octarock_Forest",
-        "loactions": [
+        "locations": [
             "Hyrule Ridge",
             "Deep Akkala"
         ]
@@ -1827,7 +1827,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Octarock_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Octarock",
-        "loactions": [
+        "locations": [
             "Lanayru Great Spring",
             "West Necluda"
         ]
@@ -1839,7 +1839,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Octarock_Snow_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Octarock_Snow",
-        "loactions": [
+        "locations": [
             "Gerudo Highlands",
             "Hebra Mountains"
         ]
@@ -1851,7 +1851,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Octarock_Stone_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Octarock_Stone",
-        "loactions": [
+        "locations": [
             "Death Mountain",
             "Eldin Canyon"
         ]
@@ -1863,7 +1863,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_PhantomGanon_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_PhantomGanon",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -1874,7 +1874,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Sandworm_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Sandworm",
-        "loactions": [
+        "locations": [
             "Gerudo Desert"
         ]
     },
@@ -1885,7 +1885,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Toby_Junior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Toby_Junior",
-        "loactions": [
+        "locations": [
             "Greater Hyrule"
         ]
     },
@@ -1896,7 +1896,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Treant_Broadleaf_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Treant_Broadleaf",
-        "loactions": [
+        "locations": [
             "Great Hyrule Forest",
             "Hyrule Field"
         ]
@@ -1908,7 +1908,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Wizzrobe_Electric_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Wizzrobe_Electric",
-        "loactions": [
+        "locations": [
             "Lanayru Great Spring",
             "Tabantha Frontier"
         ]
@@ -1920,7 +1920,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Wizzrobe_Electric_Senior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Wizzrobe_Electric_Senior",
-        "loactions": [
+        "locations": [
             "Lanayru Great Spring",
             "East Necluda"
         ]
@@ -1932,7 +1932,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Wizzrobe_Fire_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Wizzrobe_Fire",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Eldin Canyon"
         ]
@@ -1944,7 +1944,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Wizzrobe_Fire_Senior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Wizzrobe_Fire_Senior",
-        "loactions": [
+        "locations": [
             "Gerudo Highlands",
             "Akkala Highlands"
         ]
@@ -1956,7 +1956,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Wizzrobe_Ice_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Wizzrobe_Ice",
-        "loactions": [
+        "locations": [
             "Tabantha Tundra",
             "Hebra Mountains"
         ]
@@ -1968,7 +1968,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Wizzrobe_Ice_Senior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Wizzrobe_Ice_Senior",
-        "loactions": [
+        "locations": [
             "Gerudo Highlands"
         ]
     },
@@ -1979,7 +1979,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Zombie_Boss_Junior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Zombie_Boss_Junior",
-        "loactions": [
+        "locations": [
             "Gerudo Desert",
             "Gerudo Desert Depths"
         ]
@@ -1991,7 +1991,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Zombie_Junior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Zombie_Junior",
-        "loactions": [
+        "locations": [
             "Gerudo Desert",
             "Gerudo Desert Depths"
         ]
@@ -2003,7 +2003,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Zonau_BlockMaster_Junior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Zonau_BlockMaster_Junior",
-        "loactions": [
+        "locations": [
             "West Hebra Sky Archipelago",
             "Gerudo Highlands Depths"
         ]
@@ -2015,7 +2015,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Zonau_BlockMaster_Middle_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Zonau_BlockMaster_Middle",
-        "loactions": [
+        "locations": [
             "Lanayru Sky Archipelago",
             "Mount Lanayru Depths"
         ]
@@ -2027,7 +2027,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Zonau_BlockMaster_Senior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Zonau_BlockMaster_Senior",
-        "loactions": [
+        "locations": [
             "North Akkala Sky Archipelago",
             "Central Hyrule Depths"
         ]
@@ -2039,7 +2039,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Zonau_Golem_Dark_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Zonau_Golem_Dark",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -2050,7 +2050,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Zonau_Golem_Junior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Zonau_Golem_Junior",
-        "loactions": [
+        "locations": [
             "Great Sky Island",
             "Rising Island Chain"
         ]
@@ -2062,7 +2062,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Zonau_Golem_Middle_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Zonau_Golem_Middle",
-        "loactions": [
+        "locations": [
             "Lanayru Sky Archipelago",
             "West Necluda"
         ]
@@ -2074,7 +2074,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Zonau_Golem_Senior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Zonau_Golem_Senior",
-        "loactions": [
+        "locations": [
             "Thyphlo Ruins",
             "Lanayru Sky Archipelago"
         ]
@@ -2086,7 +2086,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Zonau_Robot_Dark_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Zonau_Robot_Dark",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -2097,7 +2097,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Zonau_Robot_Junior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Zonau_Robot_Junior",
-        "loactions": [
+        "locations": [
             "Great Sky Island",
             "North Gerudo Sky Archipelago"
         ]
@@ -2109,7 +2109,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Zonau_Robot_Middle_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Zonau_Robot_Middle",
-        "loactions": [
+        "locations": [
             "Hebra Mountains",
             "Rising Island Chain"
         ]
@@ -2121,7 +2121,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Enemy_Zonau_Robot_Senior_Icon.png",
         "category": "Enemy",
         "gamename": "Enemy_Zonau_Robot_Senior",
-        "loactions": [
+        "locations": [
             "Lanayru Sky Archipelago",
             "Thunderhead Isles"
         ]
@@ -2133,7 +2133,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/FireFruit_Icon.png",
         "category": "Item",
         "gamename": "FireFruit",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Elclin Canyon"
         ]
@@ -2145,7 +2145,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/FldObj_HyliaWoodWell_A_02_Icon.png",
         "category": "Item",
         "gamename": "FldObj_HyliaWoodWell_A_02",
-        "loactions": [
+        "locations": [
             "Greater Hyrule"
         ]
     },
@@ -2156,7 +2156,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/FldObj_Pinecone_A_01_Icon.png",
         "category": "Item",
         "gamename": "FldObj_Pinecone_A_01",
-        "loactions": [
+        "locations": [
             "Hebra Mountains",
             "Lanayru Great Spring"
         ]
@@ -2168,7 +2168,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/GameRomHorse00L_Icon.png",
         "category": "Animal",
         "gamename": "GameRomHorse00L",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -2179,7 +2179,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/GameRomHorse00S_Icon.png",
         "category": "Animal",
         "gamename": "GameRomHorse00S",
-        "loactions": [
+        "locations": [
             "Greater Hyrule"
         ]
     },
@@ -2190,7 +2190,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/GameRomHorse01L_Icon.png",
         "category": "Animal",
         "gamename": "GameRomHorse01L",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -2201,7 +2201,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/GameRomHorseBone_Icon.png",
         "category": "Animal",
         "gamename": "GameRomHorseBone",
-        "loactions": [
+        "locations": [
             "Faron Grasslands",
             "Hyrule Ridge"
         ]
@@ -2213,7 +2213,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/GameRomHorseGold_Icon.png",
         "category": "Animal",
         "gamename": "GameRomHorseGold",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -2224,7 +2224,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/GameRomHorseZelda_Icon.png",
         "category": "Animal",
         "gamename": "GameRomHorseZelda",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -2235,7 +2235,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/GameRomHorse_Icon.png",
         "category": "Animal",
         "gamename": "GameRomHorse",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Akkala Highlands"
         ]
@@ -2247,7 +2247,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/IceFruit_Icon.png",
         "category": "Item",
         "gamename": "IceFruit",
-        "loactions": [
+        "locations": [
             "Gerudo Highlands",
             "Hebra Mountains"
         ]
@@ -2259,7 +2259,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_100_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_100",
-        "loactions": [
+        "locations": [
             "Hyrule Caves",
             "Elclin Canyon Depths"
         ]
@@ -2271,7 +2271,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_101_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_101",
-        "loactions": [
+        "locations": [
             "Death Mountain",
             "Death Mountain Depths"
         ]
@@ -2283,7 +2283,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_102_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_102",
-        "loactions": [
+        "locations": [
             "Hyrule Caves",
             "Gerudo Desert Depths"
         ]
@@ -2295,7 +2295,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_103_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_103",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -2306,7 +2306,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_106_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_106",
-        "loactions": [
+        "locations": [
             "Lanayru Wetlands",
             "Lanayru Great Spring"
         ]
@@ -2318,7 +2318,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_107_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_107",
-        "loactions": [
+        "locations": [
             "Mount Lanayru",
             "Akkala Highlands Depths"
         ]
@@ -2330,7 +2330,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_108_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_108",
-        "loactions": [
+        "locations": [
             "Gerudo Desert",
             "East Necluda"
         ]
@@ -2342,7 +2342,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_109_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_109",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -2353,7 +2353,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_117_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_117",
-        "loactions": [
+        "locations": [
             "Eldin Mountains",
             "Eldin Mountains Depths"
         ]
@@ -2365,7 +2365,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_118_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_118",
-        "loactions": [
+        "locations": [
             "Gerudo Desert",
             "Gerudo Desert Depths"
         ]
@@ -2389,7 +2389,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_132_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_132",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Lanayru Great Spring"
         ]
@@ -2401,7 +2401,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_133_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_133",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "East Necluda"
         ]
@@ -2413,7 +2413,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_134_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_134",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -2424,7 +2424,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_142_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_142",
-        "loactions": [
+        "locations": [
             "Hyrule Ridge",
             "West Necluda"
         ]
@@ -2436,7 +2436,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_143_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_143",
-        "loactions": [
+        "locations": [
             "East Necluda Depths",
             "West Necluda"
         ]
@@ -2448,7 +2448,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_144_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_144",
-        "loactions": [
+        "locations": [
             "East Necluda",
             "West Necluda Depths"
         ]
@@ -2460,7 +2460,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_148_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_148",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Central Hyrule Depths"
         ]
@@ -2472,7 +2472,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_149_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_149",
-        "loactions": [
+        "locations": [
             "Lanayru Great Spring",
             "Elclin Canyon Depths"
         ]
@@ -2484,7 +2484,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_150_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_150",
-        "loactions": [
+        "locations": [
             "Faron Grasslands Depths",
             "Central Hyrule Depths"
         ]
@@ -2496,7 +2496,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_151_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_151",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -2507,7 +2507,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_153_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_153",
-        "loactions": [
+        "locations": [
             "Eldin Canyon",
             "Lake Hylia"
         ]
@@ -2519,7 +2519,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_154_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_154",
-        "loactions": [
+        "locations": [
             "Gerudo Highlands",
             "Hebra Mountains"
         ]
@@ -2531,7 +2531,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_155_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_155",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Faron Grasslands"
         ]
@@ -2543,7 +2543,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_15_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_15",
-        "loactions": [
+        "locations": [
             "Eldin Canyon",
             "Eldin Mountains"
         ]
@@ -2555,7 +2555,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_166_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_166",
-        "loactions": [
+        "locations": [
             "Great Sky Island",
             "North Gerudo Sky Archipelago"
         ]
@@ -2567,7 +2567,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_167_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_167",
-        "loactions": [
+        "locations": [
             "Hebra Mountains",
             "Rising Island Chain"
         ]
@@ -2591,7 +2591,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_169_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_169",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -2602,7 +2602,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_16_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_16",
-        "loactions": [
+        "locations": [
             "West Necluda",
             "Gerudo Desert"
         ]
@@ -2614,7 +2614,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_17_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_17",
-        "loactions": [
+        "locations": [
             "Hebra Mountains",
             "Gerudo Highlands"
         ]
@@ -2626,7 +2626,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_181_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_181",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Elclin Mountains"
         ]
@@ -2638,7 +2638,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_182_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_182",
-        "loactions": [
+        "locations": [
             "Eldin Mountains",
             "Eldin Mountains Depths"
         ]
@@ -2650,7 +2650,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_183_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_183",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "East Necluda"
         ]
@@ -2662,7 +2662,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_184_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_184",
-        "loactions": [
+        "locations": [
             "Mount Lanayru",
             "Gerudo Highlands"
         ]
@@ -2674,7 +2674,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_186_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_186",
-        "loactions": [
+        "locations": [
             "Gerudo Highlands Depths",
             "Central Hyrule Depths"
         ]
@@ -2686,7 +2686,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_187_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_187",
-        "loactions": [
+        "locations": [
             "Gerudo Desert Depths",
             "Hyrule Ridge Depths"
         ]
@@ -2698,7 +2698,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_188_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_188",
-        "loactions": [
+        "locations": [
             "Hebra Mountains Depths",
             "Tabantha Frontier Depths"
         ]
@@ -2710,7 +2710,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_191_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_191",
-        "loactions": [
+        "locations": [
             "Lanayru Sky Archipelago",
             "West Necluda"
         ]
@@ -2722,7 +2722,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_192_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_192",
-        "loactions": [
+        "locations": [
             "Thyphlo Ruins",
             "Lanayru Sky Archipelago"
         ]
@@ -2734,7 +2734,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_193_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_193",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -2745,7 +2745,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_19_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_19",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "West Necluda"
         ]
@@ -2757,7 +2757,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_208_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_208",
-        "loactions": [
+        "locations": [
             "East Necluda",
             "Central Hyrule Depths"
         ]
@@ -2769,7 +2769,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_210_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_210",
-        "loactions": [
+        "locations": [
             "Gerudo Desert"
         ]
     },
@@ -2780,7 +2780,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_211_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_211",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -2791,7 +2791,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_212_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_212",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -2802,7 +2802,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_213_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_213",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -2813,7 +2813,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_214_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_214",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -2824,7 +2824,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_215_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_215",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Central Hyrule Depths"
         ]
@@ -2836,7 +2836,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_216_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_216",
-        "loactions": [
+        "locations": [
             "Lanayru Great Spring",
             "Elclin Canyon Depths"
         ]
@@ -2860,7 +2860,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_218_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_218",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -2871,7 +2871,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_228_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_228",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -2882,7 +2882,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_229_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_229",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -2893,7 +2893,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_230_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_230",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -2904,7 +2904,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_231_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_231",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -2915,7 +2915,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_40_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_40",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "East Necluda"
         ]
@@ -2927,7 +2927,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_58_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_58",
-        "loactions": [
+        "locations": [
             "Eldin Canyon",
             "Gerudo Highlands"
         ]
@@ -2939,7 +2939,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_59_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_59",
-        "loactions": [
+        "locations": [
             "Hebra Mountains",
             "Gerudo Highlands"
         ]
@@ -2951,7 +2951,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_60_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_60",
-        "loactions": [
+        "locations": [
             "Gerudo Desert",
             "Faron"
         ]
@@ -2963,7 +2963,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_64_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_64",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Hyrule Ridge"
         ]
@@ -2975,7 +2975,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_66_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_66",
-        "loactions": [
+        "locations": [
             "Greater Hyrule"
         ]
     },
@@ -2986,7 +2986,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_67_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_67",
-        "loactions": [
+        "locations": [
             "Great Sky Island",
             "Rising Island Chain"
         ]
@@ -2998,7 +2998,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_69_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_69",
-        "loactions": [
+        "locations": [
             "Gerudo Desert",
             "Gerudo Desert Depths"
         ]
@@ -3010,7 +3010,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_77_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_77",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Central Hyrule Depths"
         ]
@@ -3022,7 +3022,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_78_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_78",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Eldin Canyon"
         ]
@@ -3034,7 +3034,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_79_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_79",
-        "loactions": [
+        "locations": [
             "Gerudo Desert",
             "Hyrule Ridge Depths"
         ]
@@ -3046,7 +3046,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_80_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_80",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -3057,7 +3057,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_89_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_89",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Central Hyrule Depths"
         ]
@@ -3069,7 +3069,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_90_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_90",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Eldin Canyon"
         ]
@@ -3081,7 +3081,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_91_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_91",
-        "loactions": [
+        "locations": [
             "Gerudo Highlands",
             "Deep Akkala"
         ]
@@ -3093,7 +3093,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Enemy_92_Icon.png",
         "category": "Item",
         "gamename": "Item_Enemy_92",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -3104,7 +3104,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_FishGet_AA_Icon.png",
         "category": "Item",
         "gamename": "Item_FishGet_AA",
-        "loactions": [
+        "locations": [
             "Great Sky Island",
             "North Tabantha Sky Archipelago"
         ]
@@ -3116,7 +3116,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_FishGet_AC_Icon.png",
         "category": "Item",
         "gamename": "Item_FishGet_AC",
-        "loactions": [
+        "locations": [
             "Hyrule Caves"
         ]
     },
@@ -3127,7 +3127,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_FishGet_A_Icon.png",
         "category": "Item",
         "gamename": "Item_FishGet_A",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "West Necluda"
         ]
@@ -3139,7 +3139,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_FishGet_B_Icon.png",
         "category": "Item",
         "gamename": "Item_FishGet_B",
-        "loactions": [
+        "locations": [
             "Tabantha Sky Archipelago",
             "West Hebra Sky Archipelago"
         ]
@@ -3151,7 +3151,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_FishGet_C_Icon.png",
         "category": "Item",
         "gamename": "Item_FishGet_C",
-        "loactions": [
+        "locations": [
             "Hebra Mountains",
             "Lanayru Great Spring"
         ]
@@ -3163,7 +3163,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_FishGet_D_Icon.png",
         "category": "Item",
         "gamename": "Item_FishGet_D",
-        "loactions": [
+        "locations": [
             "Tabantha Frontier"
         ]
     },
@@ -3174,7 +3174,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_FishGet_E_Icon.png",
         "category": "Item",
         "gamename": "Item_FishGet_E",
-        "loactions": [
+        "locations": [
             "Lanayru Great Spring",
             "Akkala Highlands"
         ]
@@ -3186,7 +3186,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_FishGet_F_Icon.png",
         "category": "Item",
         "gamename": "Item_FishGet_F",
-        "loactions": [
+        "locations": [
             "Faron Sea",
             "Necluda Sea"
         ]
@@ -3198,7 +3198,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_FishGet_G_Icon.png",
         "category": "Item",
         "gamename": "Item_FishGet_G",
-        "loactions": [
+        "locations": [
             "Necluda Sea",
             "Lanayru Sea"
         ]
@@ -3210,7 +3210,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_FishGet_H_Icon.png",
         "category": "Item",
         "gamename": "Item_FishGet_H",
-        "loactions": [
+        "locations": [
             "East Necluda",
             "Lanayru Great Spring"
         ]
@@ -3222,7 +3222,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_FishGet_I_Icon.png",
         "category": "Item",
         "gamename": "Item_FishGet_I",
-        "loactions": [
+        "locations": [
             "Hebra Mountains",
             "Tabantha Frontier"
         ]
@@ -3234,7 +3234,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_FishGet_J_Icon.png",
         "category": "Item",
         "gamename": "Item_FishGet_J",
-        "loactions": [
+        "locations": [
             "Eldin Canyon",
             "Hebra Mountains"
         ]
@@ -3246,7 +3246,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_FishGet_L_Icon.png",
         "category": "Item",
         "gamename": "Item_FishGet_L",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "West Necluda"
         ]
@@ -3258,7 +3258,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_FishGet_M_Icon.png",
         "category": "Item",
         "gamename": "Item_FishGet_M",
-        "loactions": [
+        "locations": [
             "Hyrule Ridge",
             "Zora's Domain"
         ]
@@ -3270,7 +3270,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_FishGet_X_Icon.png",
         "category": "Item",
         "gamename": "Item_FishGet_X",
-        "loactions": [
+        "locations": [
             "Great Hyrule Forest"
         ]
     },
@@ -3281,7 +3281,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_FishGet_Z_Icon.png",
         "category": "Item",
         "gamename": "Item_FishGet_Z",
-        "loactions": [
+        "locations": [
             "Kakariko Village"
         ]
     },
@@ -3292,7 +3292,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Fruit_A_Icon.png",
         "category": "Item",
         "gamename": "Item_Fruit_A",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Hyrule Ridge"
         ]
@@ -3304,7 +3304,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Fruit_B_Icon.png",
         "category": "Item",
         "gamename": "Item_Fruit_B",
-        "loactions": [
+        "locations": [
             "Gerudo Highlands",
             "Hebra Mountains"
         ]
@@ -3316,7 +3316,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Fruit_C_Icon.png",
         "category": "Item",
         "gamename": "Item_Fruit_C",
-        "loactions": [
+        "locations": [
             "Gerudo Desert"
         ]
     },
@@ -3327,7 +3327,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Fruit_E_Icon.png",
         "category": "Item",
         "gamename": "Item_Fruit_E",
-        "loactions": [
+        "locations": [
             "Lanayru Great Spring",
             "Lanayru Wetlands"
         ]
@@ -3339,7 +3339,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Fruit_F_Icon.png",
         "category": "Item",
         "gamename": "Item_Fruit_F",
-        "loactions": [
+        "locations": [
             "Gerudo Desert"
         ]
     },
@@ -3350,7 +3350,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Fruit_G_Icon.png",
         "category": "Item",
         "gamename": "Item_Fruit_G",
-        "loactions": [
+        "locations": [
             "East Necluda",
             "Gerudo Desert"
         ]
@@ -3362,7 +3362,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Fruit_H_Icon.png",
         "category": "Item",
         "gamename": "Item_Fruit_H",
-        "loactions": [
+        "locations": [
             "Lake Floria",
             "Eventide Island"
         ]
@@ -3374,7 +3374,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Fruit_I_Icon.png",
         "category": "Item",
         "gamename": "Item_Fruit_I",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Gerudo Desert"
         ]
@@ -3386,7 +3386,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Fruit_J_Icon.png",
         "category": "Item",
         "gamename": "Item_Fruit_J",
-        "loactions": [
+        "locations": [
             "Kakariko Village",
             "Hateno Village"
         ]
@@ -3398,7 +3398,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Fruit_M_Icon.png",
         "category": "Item",
         "gamename": "Item_Fruit_M",
-        "loactions": [
+        "locations": [
             "East Necluda",
             "West Necluda"
         ]
@@ -3410,7 +3410,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Fruit_N_Icon.png",
         "category": "Item",
         "gamename": "Item_Fruit_N",
-        "loactions": [
+        "locations": [
             "Hateno Village"
         ]
     },
@@ -3421,7 +3421,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Fruit_P_Icon.png",
         "category": "Item",
         "gamename": "Item_Fruit_P",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Hyrule Ridge"
         ]
@@ -3433,7 +3433,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_InsectGet_K_Icon.png",
         "category": "Item",
         "gamename": "Item_InsectGet_K",
-        "loactions": [
+        "locations": [
             "Lanayru Sea",
             "Necluda Sea"
         ]
@@ -3445,7 +3445,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_InsectGet_O_Icon.png",
         "category": "Item",
         "gamename": "Item_InsectGet_O",
-        "loactions": [
+        "locations": [
             "Necluda Sea",
             "Faron Sea"
         ]
@@ -3457,7 +3457,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_InsectGet_Z_Icon.png",
         "category": "Item",
         "gamename": "Item_InsectGet_Z",
-        "loactions": [
+        "locations": [
             "Lanayru Wetlands",
             "Lanayru Great Spring"
         ]
@@ -3469,7 +3469,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_MushroomGet_D_Icon.png",
         "category": "Item",
         "gamename": "Item_MushroomGet_D",
-        "loactions": [
+        "locations": [
             "Gerudo Highlands",
             "Tabantha Frontier"
         ]
@@ -3481,7 +3481,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_MushroomGet_K_Icon.png",
         "category": "Item",
         "gamename": "Item_MushroomGet_K",
-        "loactions": [
+        "locations": [
             "Hyrule Caves"
         ]
     },
@@ -3492,7 +3492,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Mushroom_A_Icon.png",
         "category": "Item",
         "gamename": "Item_Mushroom_A",
-        "loactions": [
+        "locations": [
             "Lanayru Great Spring",
             "West Necluda"
         ]
@@ -3504,7 +3504,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Mushroom_B_Icon.png",
         "category": "Item",
         "gamename": "Item_Mushroom_B",
-        "loactions": [
+        "locations": [
             "Gerudo Highlands",
             "Hebra Mountains"
         ]
@@ -3516,7 +3516,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Mushroom_C_Icon.png",
         "category": "Item",
         "gamename": "Item_Mushroom_C",
-        "loactions": [
+        "locations": [
             "Eldin Canyon",
             "Gerudo Highlands"
         ]
@@ -3528,7 +3528,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Mushroom_E_Icon.png",
         "category": "Item",
         "gamename": "Item_Mushroom_E",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Hyrule Ridge"
         ]
@@ -3540,7 +3540,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Mushroom_F_Icon.png",
         "category": "Item",
         "gamename": "Item_Mushroom_F",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "West Necluda"
         ]
@@ -3552,7 +3552,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Mushroom_H_Icon.png",
         "category": "Item",
         "gamename": "Item_Mushroom_H",
-        "loactions": [
+        "locations": [
             "Gerudo Desert",
             "Lanayru Wetlands"
         ]
@@ -3564,7 +3564,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Mushroom_J_Icon.png",
         "category": "Item",
         "gamename": "Item_Mushroom_J",
-        "loactions": [
+        "locations": [
             "Akkala Highlands",
             "West Necluda"
         ]
@@ -3576,7 +3576,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Mushroom_L_Icon.png",
         "category": "Item",
         "gamename": "Item_Mushroom_L",
-        "loactions": [
+        "locations": [
             "Great Hyrule Forest",
             "Tabantha Frontier"
         ]
@@ -3588,7 +3588,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Mushroom_M_Icon.png",
         "category": "Item",
         "gamename": "Item_Mushroom_M",
-        "loactions": [
+        "locations": [
             "East Necluda",
             "West Necluda"
         ]
@@ -3600,7 +3600,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Mushroom_N_Icon.png",
         "category": "Item",
         "gamename": "Item_Mushroom_N",
-        "loactions": [
+        "locations": [
             "East Necluda",
             "Gerudo Desert"
         ]
@@ -3612,7 +3612,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Mushroom_O_Icon.png",
         "category": "Item",
         "gamename": "Item_Mushroom_O",
-        "loactions": [
+        "locations": [
             "North Tabantha Sky Archipelago",
             "North Necluda Sky Archipelago"
         ]
@@ -3624,7 +3624,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Mushroom_P_Icon.png",
         "category": "Item",
         "gamename": "Item_Mushroom_P",
-        "loactions": [
+        "locations": [
             "Great Sky Island",
             "Thunderhead Isles"
         ]
@@ -3636,7 +3636,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_PlantGet_A_Icon.png",
         "category": "Item",
         "gamename": "Item_PlantGet_A",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Hyrule Ridge"
         ]
@@ -3648,7 +3648,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_PlantGet_B_Icon.png",
         "category": "Item",
         "gamename": "Item_PlantGet_B",
-        "loactions": [
+        "locations": [
             "Lanayru Sky Archipelago",
             "South Lanayru Sky Archipelago"
         ]
@@ -3660,7 +3660,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_PlantGet_C_Icon.png",
         "category": "Item",
         "gamename": "Item_PlantGet_C",
-        "loactions": [
+        "locations": [
             "Thunderhead Isles",
             "North Necluda Sky Archipelago"
         ]
@@ -3672,7 +3672,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_PlantGet_E_Icon.png",
         "category": "Item",
         "gamename": "Item_PlantGet_E",
-        "loactions": [
+        "locations": [
             "Hebra Mountains",
             "Tabantha Frontier"
         ]
@@ -3684,7 +3684,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_PlantGet_F_Icon.png",
         "category": "Item",
         "gamename": "Item_PlantGet_F",
-        "loactions": [
+        "locations": [
             "Eldin Canyon",
             "Gerudo Desert"
         ]
@@ -3696,7 +3696,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_PlantGet_G_Icon.png",
         "category": "Item",
         "gamename": "Item_PlantGet_G",
-        "loactions": [
+        "locations": [
             "East Necluda",
             "Faron Grasslands"
         ]
@@ -3708,7 +3708,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_PlantGet_H_Icon.png",
         "category": "Item",
         "gamename": "Item_PlantGet_H",
-        "loactions": [
+        "locations": [
             "Hyrule Ridge",
             "Akkala Highlands"
         ]
@@ -3720,7 +3720,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_PlantGet_I_Icon.png",
         "category": "Item",
         "gamename": "Item_PlantGet_I",
-        "loactions": [
+        "locations": [
             "Great Hyrule Forest",
             "West Necluda"
         ]
@@ -3732,7 +3732,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_PlantGet_J_Icon.png",
         "category": "Item",
         "gamename": "Item_PlantGet_J",
-        "loactions": [
+        "locations": [
             "Akkala Highlands",
             "Hyrule Ridge"
         ]
@@ -3744,7 +3744,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_PlantGet_L_Icon.png",
         "category": "Item",
         "gamename": "Item_PlantGet_L",
-        "loactions": [
+        "locations": [
             "Gerudo Desert",
             "Hyrule Ridge"
         ]
@@ -3756,7 +3756,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_PlantGet_M_Icon.png",
         "category": "Item",
         "gamename": "Item_PlantGet_M",
-        "loactions": [
+        "locations": [
             "Kakariko Village",
             "Hateno Village"
         ]
@@ -3768,7 +3768,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_PlantGet_O_Icon.png",
         "category": "Item",
         "gamename": "Item_PlantGet_O",
-        "loactions": [
+        "locations": [
             "Hebra Mountains",
             "Tabantha Frontier"
         ]
@@ -3780,7 +3780,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_PlantGet_Q_Icon.png",
         "category": "Item",
         "gamename": "Item_PlantGet_Q",
-        "loactions": [
+        "locations": [
             "East Necluda",
             "Hyrule Ridge"
         ]
@@ -3792,7 +3792,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_PlantGet_R_Icon.png",
         "category": "Item",
         "gamename": "Item_PlantGet_R",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Elclin Canyon"
         ]
@@ -3804,7 +3804,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_PlantGet_S_Icon.png",
         "category": "Item",
         "gamename": "Item_PlantGet_S",
-        "loactions": [
+        "locations": [
             "Great Sky Island",
             "Thunderhead Isles"
         ]
@@ -3816,7 +3816,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_PlantGet_U_Icon.png",
         "category": "Item",
         "gamename": "Item_PlantGet_U",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Lanayru Great Spring"
         ]
@@ -3828,7 +3828,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/LightBall_Large_Icon.png",
         "category": "Item",
         "gamename": "LightBall_Large",
-        "loactions": [
+        "locations": [
             "Hyrule Caves"
         ]
     },
@@ -3839,7 +3839,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/LightBall_Small_Icon.png",
         "category": "Item",
         "gamename": "LightBall_Small",
-        "loactions": [
+        "locations": [
             "Hyrule Caves"
         ]
     },
@@ -3850,7 +3850,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/LightFruit_Icon.png",
         "category": "Item",
         "gamename": "LightFruit",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Gerudo Highlands"
         ]
@@ -3862,7 +3862,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/NormalArrow_Icon.png",
         "category": "Item",
         "gamename": "NormalArrow",
-        "loactions": [
+        "locations": [
             "Greater Hyrule"
         ]
     },
@@ -3873,7 +3873,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Obj_Mineral_A_01_Icon.png",
         "category": "Item",
         "gamename": "Obj_Mineral_A_01",
-        "loactions": [
+        "locations": [
             "Greater Hyrule"
         ]
     },
@@ -3884,7 +3884,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Obj_Mineral_B_01_Icon.png",
         "category": "Item",
         "gamename": "Obj_Mineral_B_01",
-        "loactions": [
+        "locations": [
             "Greater Hyrule"
         ]
     },
@@ -3895,7 +3895,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Obj_Mineral_C_01_Icon.png",
         "category": "Item",
         "gamename": "Obj_Mineral_C_01",
-        "loactions": [
+        "locations": [
             "Greater Hyrule"
         ]
     },
@@ -3906,7 +3906,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Obj_Mineral_D_01_Icon.png",
         "category": "Item",
         "gamename": "Obj_Mineral_D_01",
-        "loactions": [
+        "locations": [
             "The Depths"
         ]
     },
@@ -3917,7 +3917,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/SmokeFruit_Icon.png",
         "category": "Item",
         "gamename": "SmokeFruit",
-        "loactions": [
+        "locations": [
             "The Depths"
         ]
     },
@@ -3928,7 +3928,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/TBox_Field_Iron_Icon.png",
         "category": "Item",
         "gamename": "TBox_Field_Iron",
-        "loactions": [
+        "locations": [
             "Greater Hyrule"
         ]
     },
@@ -3939,7 +3939,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/WaterFruit_Icon.png",
         "category": "Item",
         "gamename": "WaterFruit",
-        "loactions": [
+        "locations": [
             "Lanayru Great Spring",
             "West Necluda"
         ]
@@ -3951,7 +3951,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Bow_001_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Bow_001",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Central Hyrule Depths"
         ]
@@ -3963,7 +3963,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Bow_002_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Bow_002",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Hebra Mountains"
         ]
@@ -3975,7 +3975,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Bow_003_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Bow_003",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Gerudo Highlands Depths"
         ]
@@ -3987,7 +3987,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Bow_004_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Bow_004",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Central Hyrule Depths"
         ]
@@ -3999,7 +3999,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Bow_006_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Bow_006",
-        "loactions": [
+        "locations": [
             "Lanayru Wetlands",
             "Gerudo Desert Depths"
         ]
@@ -4011,7 +4011,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Bow_009_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Bow_009",
-        "loactions": [
+        "locations": [
             "East Necluda",
             "Deep Akkala"
         ]
@@ -4023,7 +4023,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Bow_011_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Bow_011",
-        "loactions": [
+        "locations": [
             "Gerudo Desert",
             "Akkala Highlands Depths"
         ]
@@ -4035,7 +4035,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Bow_013_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Bow_013",
-        "loactions": [
+        "locations": [
             "Great Hyrule Forest"
         ]
     },
@@ -4046,7 +4046,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Bow_014_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Bow_014",
-        "loactions": [
+        "locations": [
             "Lanayru Great Spring"
         ]
     },
@@ -4057,7 +4057,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Bow_015_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Bow_015",
-        "loactions": [
+        "locations": [
             "Gerudo Desert",
             "Gerudo Highlands"
         ]
@@ -4069,7 +4069,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Bow_016_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Bow_016",
-        "loactions": [
+        "locations": [
             "Hebra Mountains",
             "Tabantha Frontier"
         ]
@@ -4081,7 +4081,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Bow_017_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Bow_017",
-        "loactions": [
+        "locations": [
             "Tabantha Frontier",
             "Hebra Mountains"
         ]
@@ -4093,7 +4093,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Bow_026_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Bow_026",
-        "loactions": [
+        "locations": [
             "Lanayru Great Spring",
             "Akkala Highlands Depths"
         ]
@@ -4105,7 +4105,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Bow_027_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Bow_027",
-        "loactions": [
+        "locations": [
             "Gerudo Highlands",
             "Gerudo Highlands Depths"
         ]
@@ -4117,7 +4117,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Bow_028_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Bow_028",
-        "loactions": [
+        "locations": [
             "Rito Village"
         ]
     },
@@ -4128,7 +4128,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Bow_029_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Bow_029",
-        "loactions": [
+        "locations": [
             "East Necluda",
             "West Necluda"
         ]
@@ -4140,7 +4140,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Bow_030_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Bow_030",
-        "loactions": [
+        "locations": [
             "Gerudo Highlands Depths",
             "Central Hyrule Depths"
         ]
@@ -4152,7 +4152,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Bow_032_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Bow_032",
-        "loactions": [
+        "locations": [
             "Gerudo Highlands",
             "Lanayru Wetlands Depths"
         ]
@@ -4164,7 +4164,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Bow_033_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Bow_033",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -4175,7 +4175,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Bow_035_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Bow_035",
-        "loactions": [
+        "locations": [
             "Gerudo Desert",
             "Akkala Highlands"
         ]
@@ -4187,7 +4187,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Bow_036_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Bow_036",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Central Hyrule Depths"
         ]
@@ -4199,7 +4199,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Bow_038_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Bow_038",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "South Lanayru Sky Archipelago"
         ]
@@ -4211,7 +4211,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Bow_040_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Bow_040",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Gerudo Desert Depths"
         ]
@@ -4223,7 +4223,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Bow_072_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Bow_072",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -4234,7 +4234,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Bow_101_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Bow_101",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -4245,7 +4245,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Bow_104_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Bow_104",
-        "loactions": [
+        "locations": [
             "South Lanayru Sky Archipelago",
             "North Gerudo Sky Archipelago"
         ]
@@ -4257,7 +4257,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Bow_105_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Bow_105",
-        "loactions": [
+        "locations": [
             "Rising Island Chain",
             "Death Mountain Depths"
         ]
@@ -4269,7 +4269,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Bow_106_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Bow_106",
-        "loactions": [
+        "locations": [
             "Lomei Labyrinth Island",
             "Thyphlo Ruins"
         ]
@@ -4281,7 +4281,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Bow_107_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Bow_107",
-        "loactions": [
+        "locations": [
             "Great Sky Island"
         ]
     },
@@ -4292,7 +4292,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Bow_166_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Bow_166",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -4303,7 +4303,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Lsword_106_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Lsword_106",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Gerudo Desert"
         ]
@@ -4315,7 +4315,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Lsword_112_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Lsword_112",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Eldin Canyon"
         ]
@@ -4327,7 +4327,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Lsword_113_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Lsword_113",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Gerudo Desert"
         ]
@@ -4339,7 +4339,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Lsword_019_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Lsword_019",
-        "loactions": [
+        "locations": [
             "Great Hyrule Forest",
             "Deep Akkala Depths"
         ]
@@ -4351,7 +4351,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Lsword_020_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Lsword_020",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Eldin Canyon Depths"
         ]
@@ -4363,7 +4363,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Lsword_124_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Lsword_124",
-        "loactions": [
+        "locations": [
             "Great Plateau",
             "Hyrule Castle"
         ]
@@ -4375,7 +4375,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Lsword_127_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Lsword_127",
-        "loactions": [
+        "locations": [
             "Lanayru Great Spring"
         ]
     },
@@ -4386,7 +4386,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Lsword_129_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Lsword_129",
-        "loactions": [
+        "locations": [
             "Gerudo Desert",
             "Gerudo Highlands"
         ]
@@ -4398,7 +4398,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Lsword_136_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Lsword_136",
-        "loactions": [
+        "locations": [
             "Eldin Canyon",
             "Eldin Canyon Depths"
         ]
@@ -4410,7 +4410,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Lsword_038_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Lsword_038",
-        "loactions": [
+        "locations": [
             "East Necluda",
             "Necluda Sea"
         ]
@@ -4422,7 +4422,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Lsword_114_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Lsword_114",
-        "loactions": [
+        "locations": [
             "Hyrule Ridge",
             "Gerudo Highlands"
         ]
@@ -4434,7 +4434,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Lsword_045_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Lsword_045",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "West Necluda"
         ]
@@ -4446,7 +4446,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Lsword_147_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Lsword_147",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -4457,7 +4457,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Lsword_174_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Lsword_174",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Elclin Canyon"
         ]
@@ -4469,7 +4469,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Lsword_054_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Lsword_054",
-        "loactions": [
+        "locations": [
             "Goron City"
         ]
     },
@@ -4480,7 +4480,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Lsword_057_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Lsword_057",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -4491,7 +4491,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Lsword_059_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Lsword_059",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -4502,7 +4502,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Lsword_060_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Lsword_060",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -4513,7 +4513,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Lsword_101_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Lsword_101",
-        "loactions": [
+        "locations": [
             "Lanayru Sky Archipelago",
             "Necluda Sky Archipelago"
         ]
@@ -4525,7 +4525,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Lsword_103_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Lsword_103",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Hebra Mountains"
         ]
@@ -4537,7 +4537,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Lsword_108_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Lsword_108",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Gerudo Desert"
         ]
@@ -4549,7 +4549,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Lsword_109_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Lsword_109",
-        "loactions": [
+        "locations": [
             "East Necluda",
             "Gerudo Highlands"
         ]
@@ -4561,7 +4561,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Lsword_161_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Lsword_161",
-        "loactions": [
+        "locations": [
             "Central Hyrule Depths",
             "Mount Lanayru Depths"
         ]
@@ -4573,7 +4573,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Lsword_163_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Lsword_163",
-        "loactions": [
+        "locations": [
             "Lanayru Sky Archipelago",
             "Thunderhead Isles"
         ]
@@ -4585,7 +4585,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Lsword_164_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Lsword_164",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -4596,7 +4596,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Lsword_166_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Lsword_166",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -4607,7 +4607,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_001_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_001",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Hebra Mountains"
         ]
@@ -4619,7 +4619,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_002_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_002",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Elciin Canyon"
         ]
@@ -4631,7 +4631,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_003_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_003",
-        "loactions": [
+        "locations": [
             "Gerudo Desert",
             "Tabantha Frontier Depths"
         ]
@@ -4643,7 +4643,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_004_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_004",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Hebra Mountains"
         ]
@@ -4655,7 +4655,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_005_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_005",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "East Necluda"
         ]
@@ -4667,7 +4667,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_006_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_006",
-        "loactions": [
+        "locations": [
             "Gerudo Highlands",
             "Gerudo Desert"
         ]
@@ -4679,7 +4679,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_007_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_007",
-        "loactions": [
+        "locations": [
             "Lanayru Great Spring",
             "Faron Sea"
         ]
@@ -4691,7 +4691,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_008_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_008",
-        "loactions": [
+        "locations": [
             "Tabantha Tundra",
             "Abandoned Kakariko Mine"
         ]
@@ -4703,7 +4703,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_009_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_009",
-        "loactions": [
+        "locations": [
             "Gerudo Desert",
             "Mount Lanayru"
         ]
@@ -4715,7 +4715,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_016_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_016",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Central Hyrule Depths"
         ]
@@ -4727,7 +4727,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_017_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_017",
-        "loactions": [
+        "locations": [
             "Faron Grasslands",
             "Eldin Canyon Depths"
         ]
@@ -4739,7 +4739,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_018_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_018",
-        "loactions": [
+        "locations": [
             "Akkala Highlands",
             "Central Hyrule Depths"
         ]
@@ -4751,7 +4751,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_021_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_021",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "East Necluda"
         ]
@@ -4763,7 +4763,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_022_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_022",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Gerudo Highlands Depths"
         ]
@@ -4775,7 +4775,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_023_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_023",
-        "loactions": [
+        "locations": [
             "Great Hyrule Forest"
         ]
     },
@@ -4786,7 +4786,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_025_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_025",
-        "loactions": [
+        "locations": [
             "Lanayru Great Spring",
             "Lanayru Great Spring Sky"
         ]
@@ -4798,7 +4798,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_026_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_026",
-        "loactions": [
+        "locations": [
             "Gerudo Desert",
             "Gerudo Highlands"
         ]
@@ -4810,7 +4810,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_030_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_030",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -4821,7 +4821,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_031_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_031",
-        "loactions": [
+        "locations": [
             "Tabantha Frontier",
             "Hebra Mountains"
         ]
@@ -4833,7 +4833,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_032_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_032",
-        "loactions": [
+        "locations": [
             "Lurelin Village"
         ]
     },
@@ -4844,7 +4844,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_033_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_033",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -4855,7 +4855,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_034_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_034",
-        "loactions": [
+        "locations": [
             "West Necluda",
             "East Necluda"
         ]
@@ -4867,7 +4867,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_035_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_035",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Eldin Mountains"
         ]
@@ -4879,7 +4879,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_036_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_036",
-        "loactions": [
+        "locations": [
             "Gerudo Desert",
             "Gerudo Highlands"
         ]
@@ -4891,7 +4891,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_037_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_037",
-        "loactions": [
+        "locations": [
             "Gerudo Town"
         ]
     },
@@ -4902,7 +4902,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_040_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_040",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "East Necluda"
         ]
@@ -4914,7 +4914,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_041_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_041",
-        "loactions": [
+        "locations": [
             "East Necluda",
             "West Necluda"
         ]
@@ -4926,7 +4926,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_042_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_042",
-        "loactions": [
+        "locations": [
             "Hebra Mountains",
             "Tabantha Frontier"
         ]
@@ -4938,7 +4938,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_057_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_057",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -4949,7 +4949,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_101_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_101",
-        "loactions": [
+        "locations": [
             "Necluda Sky Archipelago",
             "Elciin Sky Archipelago"
         ]
@@ -4961,7 +4961,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_102_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_102",
-        "loactions": [
+        "locations": [
             "Lanayru Sky Archipelago",
             "Lomei Labyrinth Island"
         ]
@@ -4973,7 +4973,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Shield_103_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Shield_103",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -4996,7 +4996,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Spear_106_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Spear_106",
-        "loactions": [
+        "locations": [
             "Death Mountain",
             "Gerudo Highlands"
         ]
@@ -5008,7 +5008,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Spear_112_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Spear_112",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Eldin Canyon"
         ]
@@ -5020,7 +5020,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Spear_113_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Spear_113",
-        "loactions": [
+        "locations": [
             "Gerudo Desert",
             "Faron Grasslands"
         ]
@@ -5032,7 +5032,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Spear_021_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Spear_021",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "East Necluda"
         ]
@@ -5044,7 +5044,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Spear_022_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Spear_022",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "West Necluda"
         ]
@@ -5056,7 +5056,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Spear_124_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Spear_124",
-        "loactions": [
+        "locations": [
             "Hyrule Castle",
             "East Necluda"
         ]
@@ -5068,7 +5068,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Spear_125_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Spear_125",
-        "loactions": [
+        "locations": [
             "Great Hyrule Forest"
         ]
     },
@@ -5079,7 +5079,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Spear_127_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Spear_127",
-        "loactions": [
+        "locations": [
             "Lanayru Wetlands",
             "Upland Zorana"
         ]
@@ -5091,7 +5091,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Spear_129_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Spear_129",
-        "loactions": [
+        "locations": [
             "Gerudo Desert"
         ]
     },
@@ -5102,7 +5102,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Spear_173_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Spear_173",
-        "loactions": [
+        "locations": [
             "Central Hyrule Depths"
         ]
     },
@@ -5113,7 +5113,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Spear_132_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Spear_132",
-        "loactions": [
+        "locations": [
             "Hebra Mountains",
             "Tabantha Frontier"
         ]
@@ -5125,7 +5125,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Spear_036_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Spear_036",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Elclin Canyon"
         ]
@@ -5137,7 +5137,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Spear_038_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Spear_038",
-        "loactions": [
+        "locations": [
             "Lurelin Village"
         ]
     },
@@ -5148,7 +5148,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Spear_147_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Spear_147",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -5159,7 +5159,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Spear_050_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Spear_050",
-        "loactions": [
+        "locations": [
             "Zora's Domain"
         ]
     },
@@ -5170,7 +5170,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Spear_101_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Spear_101",
-        "loactions": [
+        "locations": [
             "Rising Island Chain",
             "Lanayru Sky Archipelago"
         ]
@@ -5182,7 +5182,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Spear_103_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Spear_103",
-        "loactions": [
+        "locations": [
             "Tabantha Frontier",
             "Hebra Mountains"
         ]
@@ -5194,7 +5194,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Spear_108_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Spear_108",
-        "loactions": [
+        "locations": [
             "Gerudo Desert",
             "East Necluda Depths"
         ]
@@ -5206,7 +5206,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Spear_109_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Spear_109",
-        "loactions": [
+        "locations": [
             "Gerudo Desert"
         ]
     },
@@ -5217,7 +5217,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Spear_161_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Spear_161",
-        "loactions": [
+        "locations": [
             "Eldin Mountains",
             "North Gerudo Sky Archipelago"
         ]
@@ -5229,7 +5229,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Spear_163_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Spear_163",
-        "loactions": [
+        "locations": [
             "Lanayru Sky Archipelago",
             "Lomei Labyrinth Island"
         ]
@@ -5241,7 +5241,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Spear_164_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Spear_164",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -5252,7 +5252,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Spear_166_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Spear_166",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -5263,7 +5263,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Sword_106_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Sword_106",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Central Hyrule Depths"
         ]
@@ -5275,7 +5275,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Sword_112_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Sword_112",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Eldlin Canyon"
         ]
@@ -5287,7 +5287,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Sword_113_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Sword_113",
-        "loactions": [
+        "locations": [
             "Gerudo Desert",
             "Hyrule Castle"
         ]
@@ -5299,7 +5299,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Sword_019_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Sword_019",
-        "loactions": [
+        "locations": [
             "Great Hyrule Forest",
             "Gerudo Desert Depths"
         ]
@@ -5311,7 +5311,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Sword_020_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Sword_020",
-        "loactions": [
+        "locations": [
             "Greater Hyrule"
         ]
     },
@@ -5322,7 +5322,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Sword_021_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Sword_021",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "East Necluda Depths"
         ]
@@ -5334,7 +5334,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Sword_022_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Sword_022",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "West Necluda"
         ]
@@ -5346,7 +5346,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Sword_124_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Sword_124",
-        "loactions": [
+        "locations": [
             "Hyrule Castle",
             "Gerudo Highlands Depths"
         ]
@@ -5358,7 +5358,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Sword_125_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Sword_125",
-        "loactions": [
+        "locations": [
             "Eldin Mountains",
             "Great Hyrule Forest"
         ]
@@ -5370,7 +5370,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Sword_127_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Sword_127",
-        "loactions": [
+        "locations": [
             "Lanayru Great Spring"
         ]
     },
@@ -5381,7 +5381,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Sword_129_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Sword_129",
-        "loactions": [
+        "locations": [
             "Gerudo Desert"
         ]
     },
@@ -5392,7 +5392,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Sword_131_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Sword_131",
-        "loactions": [
+        "locations": [
             "Hebra Mountains",
             "Tabantha Frontier"
         ]
@@ -5404,7 +5404,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Sword_114_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Sword_114",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Gerudo Highlands"
         ]
@@ -5416,7 +5416,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Sword_043_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Sword_043",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Gerudo Desert"
         ]
@@ -5428,7 +5428,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Sword_044_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Sword_044",
-        "loactions": [
+        "locations": [
             "Great Sky Island",
             "Hyrule Field"
         ]
@@ -5440,7 +5440,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Sword_147_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Sword_147",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -5451,7 +5451,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Sword_105_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Sword_105",
-        "loactions": [
+        "locations": [
             "Lanayru Great Spring",
             "Lanayru Wetlands"
         ]
@@ -5463,7 +5463,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Sword_052_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Sword_052",
-        "loactions": [
+        "locations": [
             "Gerudo Town"
         ]
     },
@@ -5474,7 +5474,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Sword_057_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Sword_057",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -5485,7 +5485,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Sword_058_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Sword_058",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -5496,7 +5496,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Sword_059_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Sword_059",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -5507,7 +5507,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Sword_070_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Sword_070",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -5518,7 +5518,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Sword_101_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Sword_101",
-        "loactions": [
+        "locations": [
             "Necluda Sky Archipelago",
             "South Eldin Sky Archipelago"
         ]
@@ -5530,7 +5530,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Sword_103_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Sword_103",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "Central Hyrule Depths"
         ]
@@ -5542,7 +5542,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Sword_107_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Sword_107",
-        "loactions": [
+        "locations": [
             "Hebra Mountains",
             "Mount Lanayru"
         ]
@@ -5554,7 +5554,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Sword_108_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Sword_108",
-        "loactions": [
+        "locations": [
             "Hyrule Field",
             "East Necluda"
         ]
@@ -5566,7 +5566,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Sword_109_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Sword_109",
-        "loactions": [
+        "locations": [
             "Gerudo Desert",
             "Mount Lanayru"
         ]
@@ -5578,7 +5578,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Sword_161_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Sword_161",
-        "loactions": [
+        "locations": [
             "Gerudo Highlands",
             "West Necluda"
         ]
@@ -5590,7 +5590,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Sword_163_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Sword_163",
-        "loactions": [
+        "locations": [
             "Lanayru Sky Archipelago",
             "Thunderhead Isles"
         ]
@@ -5602,7 +5602,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Sword_164_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Sword_164",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
@@ -5613,7 +5613,7 @@
         "thumbnail": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Weapon_Sword_166_Icon.png",
         "category": "Weapon",
         "gamename": "Weapon_Sword_166",
-        "loactions": [
+        "locations": [
             "Unknown"
         ]
     },
