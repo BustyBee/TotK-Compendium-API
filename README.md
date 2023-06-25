@@ -41,6 +41,8 @@ Because of this, **please don't make any huge projects that rely on this API!**
     ]
 }
 ```
+Food entries (`Category: Cooking`) have an `ingredients` property (string), instead of `locations` (list).
+
 
 <br>
 
