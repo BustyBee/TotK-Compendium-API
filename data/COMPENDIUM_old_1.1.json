@@ -1,7 +1,8 @@
 {
     "info": {
-        "changes": "Added recipies"
+        "changes": "Added locations"
     },
+
     "honeyvore_bear": {
         "name": "Honeyvore Bear",
         "description": "This king among animals is dangerous game for even the most seasoned hunters. They'll attack anyone who wanders into their territory regardless of the wanderer's weaponry. As their name implies, they have a natural love of honey. Extreme caution is advised when you spot one, but if you're sneaky enough and maybe just a little bit crazy...you just may be able to ride one.",
@@ -5621,240 +5622,210 @@
         "description": "This simple mushroom-packed skewer has its colorful presentation to thank for its appeal.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_A_01.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_A_01",
-        "ingredients": "Any Mushroom"
+        "gamename": "Item_Cook_A_01"
     },
     "steamed_mushrooms": {
         "name": "Steamed Mushrooms",
         "description": "A healthy vegetable dish achieved by steaming mushrooms in plant leaves.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_A_02.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_A_02",
-        "ingredients": "Any Mushroom and any Plant"
+        "gamename": "Item_Cook_A_02"
     },
     "steamed_fruit": {
         "name": "Steamed Fruit",
         "description": "A regional dish made by steaming near-ripened fruits in the leaves of fragrant plants.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_A_03.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_A_03",
-        "ingredients": "Any Fruit and any Plant"
+        "gamename": "Item_Cook_A_03"
     },
     "steamed_fish": {
         "name": "Steamed Fish",
         "description": "A refined dish made by wrapping a fresh fish in fragrant wild greens and cooking it.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_A_04.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_A_04",
-        "ingredients": "Any Fish and any Plant"
+        "gamename": "Item_Cook_A_04"
     },
     "steamed_meat": {
         "name": "Steamed Meat",
         "description": "This meat dish has been wrapped in fragrant leaves and steamed to preserve its moisture.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_A_05.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_A_05",
-        "ingredients": "Any Meat and any Plant"
+        "gamename": "Item_Cook_A_05"
     },
     "fruit_and_mushroom_mix": {
         "name": "Fruit and Mushroom Mix",
         "description": "This dish contrasts the sweetness of fruit with the savoriness of mushrooms.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_A_07.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_A_07",
-        "ingredients": "Any Fruit and any Mushroom"
+        "gamename": "Item_Cook_A_07"
     },
     "fish_and_mushroom_skewer": {
         "name": "Fish and Mushroom Skewer",
         "description": "A simple dish made by cooking skewered fresh fish alongside fragrant mushrooms.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_A_08.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_A_08",
-        "ingredients": "Any Fish and any Mushroom"
+        "gamename": "Item_Cook_A_08"
     },
     "meat_and_mushroom_skewer": {
         "name": "Meat and Mushroom Skewer",
         "description": "A filling dish made by grilling various mountain ingredients with meat.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_A_09.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_A_09",
-        "ingredients": "Any Meat and any Mushroom"
+        "gamename": "Item_Cook_A_09"
     },
     "omelet": {
         "name": "Omelet",
         "description": "This simple dish is common all over Hyrule. Simply fry egg until it's nice and plump.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_A_10.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_A_10",
-        "ingredients": "Bird Egg"
+        "gamename": "Item_Cook_A_10"
     },
     "glazed_mushrooms": {
         "name": "Glazed Mushrooms",
         "description": "The honey in this mushroom dish gives it a sweet, complex taste and a savory finish.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_A_11.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_A_11",
-        "ingredients": "Any Mushroom and Courser Bee Honey"
+        "gamename": "Item_Cook_A_11"
     },
     "glazed_meat": {
         "name": "Glazed Meat",
         "description": "The sweetness of the honey permeates the meat, giving it a complex taste profile.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_A_12.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_A_12",
-        "ingredients": "Any Meat and Courser Bee Honey"
+        "gamename": "Item_Cook_A_12"
     },
     "glazed_seafood": {
         "name": "Glazed Seafood",
         "description": "A seafood dish that you can actually wolf down whole!",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_A_13.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_A_13",
-        "ingredients": "Any Seafood and Courser Bee Honey"
+        "gamename": "Item_Cook_A_13"
     },
     "glazed_veggies": {
         "name": "Glazed Veggies",
         "description": "Don't like the taste of vegetables? Simply sauté them in honey for a salty-sweet flavor!",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_A_14.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_A_14",
-        "ingredients": "Any Plant and Couser Bee Honey"
+        "gamename": "Item_Cook_A_14"
     },
     "fried_wild_greens": {
         "name": "Fried Wild Greens",
         "description": "A basic vegetable dish made by sautéing fresh wild plants.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_B_01.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_B_01",
-        "ingredients": "Any Plant"
+        "gamename": "Item_Cook_B_01"
     },
     "simmered_fruit": {
         "name": "Simmered Fruit",
         "description": "This sweet dish is made by heaping tasty fruits into a pan and simmering until tender.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_B_02.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_B_02",
-        "ingredients": "Any Fruit"
+        "gamename": "Item_Cook_B_02"
     },
     "fish_skewer": {
         "name": "Fish Skewer",
         "description": "A simple dish made by cooking chunks of fresh fish on a skewer.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_B_05.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_B_05",
-        "ingredients": "Any Fish"
+        "gamename": "Item_Cook_B_05"
     },
     "meat_skewer": {
         "name": "Meat Skewer",
         "description": "A juicy, filling snack made by grilling small chunks of meat on a skewer.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_B_06.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_B_06",
-        "ingredients": "Any Meat"
+        "gamename": "Item_Cook_B_06"
     },
     "copious_fried_wild_greens": {
         "name": "Copious Fried Wild Greens",
         "description": "A healthy dish made by cooking mixed greens over a strong flame.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_B_11.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_B_11",
-        "ingredients": "4+ different Plant types"
+        "gamename": "Item_Cook_B_11"
     },
     "copious_simmered_fruit": {
         "name": "Copious Simmered Fruit",
         "description": "The flavors of the various fruits in this simmered dish exist in perfect harmony.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_B_12.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_B_12",
-        "ingredients": "4+ different Fruit types"
+        "gamename": "Item_Cook_B_12"
     },
     "copious_mushroom_skewers": {
         "name": "Copious Mushroom Skewers",
         "description": "Fans of fungal cuisine can't resist this simple mushroom-skewer dish. Very filling.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_B_13.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_B_13",
-        "ingredients": "4+ different Mushrooms"
+        "gamename": "Item_Cook_B_13"
     },
     "copious_seafood_skewers": {
         "name": "Copious Seafood Skewers",
         "description": "It's just a whole heap of stuff shoved onto a skewer, but it's still a pretty tasty dish.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_B_15.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_B_15",
-        "ingredients": "4+ different Fish types"
+        "gamename": "Item_Cook_B_15"
     },
     "copious_meat_skewers": {
         "name": "Copious Meat Skewers",
         "description": "Just shove a bunch of meat onto a skewer, and you're good to go.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_B_16.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_B_16",
-        "ingredients": "4+ different Meat types"
+        "gamename": "Item_Cook_B_16"
     },
     "meat_and_seafood_fry": {
         "name": "Meat and Seafood Fry",
         "description": "A filling dish made by cooking fresh seafood and meat together.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_B_17.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_B_17",
-        "ingredients": "Any Seafood and Raw Meat or Raw Bird Drumstick"
+        "gamename": "Item_Cook_B_17"
     },
     "prime_meat_and_seafood_fry": {
         "name": "Prime Meat and Seafood Fry",
         "description": "This comfort dish is made with choice cuts of meat and seafood.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_B_18.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_B_18",
-        "ingredients": "Any Seafood and Prime Meat or Raw Bird Thigh"
+        "gamename": "Item_Cook_B_18"
     },
     "gourmet_meat_and_seafood_fry": {
         "name": "Gourmet Meat and Seafood Fry",
         "description": "A marriage of the choicest cuts of meat and seafood. As delicious as it is filling!",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_B_19.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_B_19",
-        "ingredients": "Any Seafood and Gourmet Meat or Raw Whole Bird"
+        "gamename": "Item_Cook_B_19"
     },
     "meat-stuffed_pumpkin": {
         "name": "Meat-Stuffed Pumpkin",
         "description": "This hollow, meat-filled pumpkin is a local specialty of Kakariko Village.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_B_20.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_B_20",
-        "ingredients": "Any Meat and any Pumpkin"
+        "gamename": "Item_Cook_B_20"
     },
     "sautéed_peppers": {
         "name": "Sautéed Peppers",
         "description": "The spiciness of these sautéed peppers has been broken by the heat for a sweeter taste.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_B_21.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_B_21",
-        "ingredients": "Spicy Pepper"
+        "gamename": "Item_Cook_B_21"
     },
     "sautéed_nuts": {
         "name": "Sautéed Nuts",
         "description": "These sautéed tree seeds are the perfect snack for the busy adventurer on the go!",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_B_22.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_B_22",
-        "ingredients": "Any Nut"
+        "gamename": "Item_Cook_B_22"
     },
     "seafood_skewer": {
         "name": "Seafood Skewer",
         "description": "A skewer of delicious roasted fish and shellfish.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_B_23.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_B_23",
-        "ingredients": "Any Seafood"
+        "gamename": "Item_Cook_B_23"
     },
     "fairy_tonic": {
         "name": "Fairy Tonic",
         "description": "This powerful recovery elixir harnesses the power of fairies. It has a sweet fragrance.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_C_16.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_C_16",
-        "ingredients": "Fairy and any Monster Part"
+        "gamename": "Item_Cook_C_16"
     },
     "elixir": {
         "name": "Elixir",
@@ -5868,935 +5839,818 @@
         "description": "A basic mushroom dish made by lightly salting mushrooms and grilling them.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_D_01.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_D_01",
-        "ingredients": "Any Mushroom and Rock Salt"
+        "gamename": "Item_Cook_D_01"
     },
     "salt-grilled_greens": {
         "name": "Salt-Grilled Greens",
         "description": "A health-boosting dish made with leafy greens and a touch of salt.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_D_02.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_D_02",
-        "ingredients": "Any Plant and Rock Salt"
+        "gamename": "Item_Cook_D_02"
     },
     "salt-grilled_fish": {
         "name": "Salt-Grilled Fish",
         "description": "A simple dish made by rolling a whole fish in natural rock salt before grilling it.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_D_03.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_D_03",
-        "ingredients": "Any Fish and Rock Salt"
+        "gamename": "Item_Cook_D_03"
     },
     "salt-grilled_meat": {
         "name": "Salt-Grilled Meat",
         "description": "Short on ingredients? Just rub some meat in salt and cook it for a simple, tasty dish.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_D_04.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_D_04",
-        "ingredients": "Rock Salt and Raw Meat or Raw Bird Drumstick"
+        "gamename": "Item_Cook_D_04"
     },
     "salt-grilled_prime_meat": {
         "name": "Salt-Grilled Prime Meat",
         "description": "A simple yet exquisite dish made by grilling high-quality meat on top of rock salt.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_D_05.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_D_05",
-        "ingredients": "Rock Salt and Prime Meat or Raw Bird Thigh"
+        "gamename": "Item_Cook_D_05"
     },
     "salt-grilled_gourmet_meat": {
         "name": "Salt-Grilled Gourmet Meat",
         "description": "This lavish grilled dish makes liberal use of high-quality cuts of meat.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_D_06.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_D_06",
-        "ingredients": "Rock Salt and Gourmet Meat or Raw Whole Bird"
+        "gamename": "Item_Cook_D_06"
     },
     "pepper_steak": {
         "name": "Pepper Steak",
         "description": "The meat has been cooked in crushed peppers to accent its natural taste.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_D_07.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_D_07",
-        "ingredients": "Any Meat and Spicy Pepper"
+        "gamename": "Item_Cook_D_07"
     },
     "pepper_seafood": {
         "name": "Pepper Seafood",
         "description": "The pepper seeds grilled with this seafood draw out its taste and pleasant aroma.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_D_08.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_D_08",
-        "ingredients": "Any Fish and Spicy Pepper"
+        "gamename": "Item_Cook_D_08"
     },
     "salt-grilled_crab": {
         "name": "Salt-Grilled Crab",
         "description": "Nine out of ten fishermen agree crab is best enjoyed grilled and with just a bit of salt.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_D_09.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_D_09",
-        "ingredients": "Any Crab and Rock Salt"
+        "gamename": "Item_Cook_D_09"
     },
     "crab_stir-fry": {
         "name": "Crab Stir-Fry",
         "description": "The Goron spice used in preparing this crab pairs perfectly with the flavor of its meat.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_D_10.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_D_10",
-        "ingredients": "Any Crab and Goron Spice"
+        "gamename": "Item_Cook_D_10"
     },
     "poultry_pilaf": {
         "name": "Poultry Pilaf",
         "description": "Sautéed Hylian rice steamed in poultry broth. Cook on low heat until the rice is fluffy.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_E_01.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_E_01",
-        "ingredients": "Raw Bird Drumstick, Hylian Rice, Goat Butter, and Bird Egg"
+        "gamename": "Item_Cook_E_01"
     },
     "prime_poultry_pilaf": {
         "name": "Prime Poultry Pilaf",
         "description": "The rice permeates the savory taste of the poultry in this Gerudo-region favorite.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_E_02.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_E_02",
-        "ingredients": "Raw Bird Thigh, Hylian Rice, Goat Butter, and Bird Egg"
+        "gamename": "Item_Cook_E_02"
     },
     "gourmet_poultry_pilaf": {
         "name": "Gourmet Poultry Pilaf",
         "description": "Made with the highest-quality poultry, every bite of this pilaf floods your mouth with flavor.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_E_03.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_E_03",
-        "ingredients": "Raw Whole Bird, Hylian Rice, Goat Butter, and Bird Egg"
+        "gamename": "Item_Cook_E_03"
     },
     "fried_egg_and_rice": {
         "name": "Fried Egg and Rice",
         "description": "The soft egg yolk pairs well with the fresh rice in this simple dish.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_E_04.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_E_04",
-        "ingredients": "Bird Egg, Hylian Rice"
+        "gamename": "Item_Cook_E_04"
     },
     "creamy_meat_soup": {
         "name": "Creamy Meat Soup",
         "description": "This nutritious soup contains serious portions of lightly braised meat and many vegetables.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_F_01.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_F_01",
-        "ingredients": "Any Meat, any Plant, Rock Salt, and Fresh Milk"
+        "gamename": "Item_Cook_F_01"
     },
     "creamy_seafood_soup": {
         "name": "Creamy Seafood Soup",
         "description": "Thick-cut chunks of seafood and stock provide a satisfying savoriness.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_F_02.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_F_02",
-        "ingredients": "Any Seafood, any Plant, Rock Salt, and Fresh Milk"
+        "gamename": "Item_Cook_F_02"
     },
     "veggie_cream_soup": {
         "name": "Veggie Cream Soup",
         "description": "This creamy soup showcases the sweetness of vegetables in a veritable taste explosion.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_F_03.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_F_03",
-        "ingredients": "Any Vegetable, Rock Salt, and Fresh Milk"
+        "gamename": "Item_Cook_F_03"
     },
     "creamy_heart_soup": {
         "name": "Creamy Heart Soup",
         "description": "Enjoying this sweet soup with another person will bring you both closer together.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_F_04.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_F_04",
-        "ingredients": "Hearty Radish, Hydromelon, Voltfruit, and Fresh Milk"
+        "gamename": "Item_Cook_F_04"
     },
     "seafood_rice_balls": {
         "name": "Seafood Rice Balls",
         "description": "Stuffed with aromatic seafood, the flavor can vary by ingredients but never disappoints.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_G_02.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_G_02",
-        "ingredients": "Any Seafood and Hylian Rice"
+        "gamename": "Item_Cook_G_02"
     },
     "veggie_rice_balls": {
         "name": "Veggie Rice Balls",
         "description": "This home-style dish of Kakariko Village is stuffed with the bounty of the mountains.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_G_03.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_G_03",
-        "ingredients": "Any Plant and Hylian Rice"
+        "gamename": "Item_Cook_G_03"
     },
     "mushroom_rice_balls": {
         "name": "Mushroom Rice Balls",
         "description": "The aroma of the mushrooms tickles your nose as you peel back the leafy wrapping.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_G_04.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_G_04",
-        "ingredients": "Any Mushroom and Hylian Rice"
+        "gamename": "Item_Cook_G_04"
     },
     "meat_and_rice_bowl": {
         "name": "Meat and Rice Bowl",
         "description": "This dish of rice and lightly seared meat is a mainstay all throughout Hyrule.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_G_05.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_G_05",
-        "ingredients": "Raw Meat, Hylian Rice, and Rock Salt"
+        "gamename": "Item_Cook_G_05"
     },
     "prime_meat_and_rice_bowl": {
         "name": "Prime Meat and Rice Bowl",
         "description": "This bowl is loaded with high-quality meat. Your hunt for a serious meal ends here.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_G_06.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_G_06",
-        "ingredients": "Raw Prime Meat, Hylian Rice, and Rock Salt"
+        "gamename": "Item_Cook_G_06"
     },
     "gourmet_meat_and_rice_bowl": {
         "name": "Gourmet Meat and Rice Bowl",
         "description": "Only the most carefully selected cuts of high- quality meats go into this dish.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_G_09.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_G_09",
-        "ingredients": "Raw Gourmet Meat, Hylian Rice, and Rock Salt"
+        "gamename": "Item_Cook_G_09"
     },
     "seafood_fried_rice": {
         "name": "Seafood Fried Rice",
         "description": "Various seafood has been sautéed with rice. The stronger the flame, the tastier the dish!",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_G_10.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_G_10",
-        "ingredients": "Any Porgy, Hylian Rice, and Rock Salt. (Other Seafood will result in Seafood Rice Balls.)"
+        "gamename": "Item_Cook_G_10"
     },
     "curry_pilaf": {
         "name": "Curry Pilaf",
         "description": "The Goron spice used in this pilaf has given it a rich, spicy aroma.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_G_11.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_G_11",
-        "ingredients": "Hylian Rice, Goron Spice, and Goat Butter"
+        "gamename": "Item_Cook_G_11"
     },
     "mushroom_risotto": {
         "name": "Mushroom Risotto",
         "description": "The tantalizing aroma of mushrooms and butter beckons you to the table.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_G_12.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_G_12",
-        "ingredients": "Any Mushroom, Hylian Rice, Goat Butter, and Rock Salt"
+        "gamename": "Item_Cook_G_12"
     },
     "vegetable_risotto": {
         "name": "Vegetable Risotto",
         "description": "The sweetness of the ingredients gives this risotto a mild flavor.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_G_13.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_G_13",
-        "ingredients": "Any Vegetable, Hylian Rice, Goat Butter, and Rock Salt"
+        "gamename": "Item_Cook_G_13"
     },
     "salmon_risotto": {
         "name": "Salmon Risotto",
         "description": "The rice used in this rich risotto permeates the light flavor of the salmon.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_G_14.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_G_14",
-        "ingredients": "Hearty Salmon, Hylian Rice, Goat Butter, and Rock Salt"
+        "gamename": "Item_Cook_G_14"
     },
     "meaty_rice_balls": {
         "name": "Meaty Rice Balls",
         "description": "The sweet and spicy meat stuffed into these rice balls will keep you full for some time.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_G_15.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_G_15",
-        "ingredients": "Any Meat and Hylian Rice"
+        "gamename": "Item_Cook_G_15"
     },
     "crab_omelet_with_rice": {
         "name": "Crab Omelet with Rice",
         "description": "The fluffy crab legs pair perfectly with the rice for a truly scrumptious dish.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_G_16.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_G_16",
-        "ingredients": "Any Crab, Bird Egg, Hylian Rice and Rock Salt"
+        "gamename": "Item_Cook_G_16"
     },
     "crab_risotto": {
         "name": "Crab Risotto",
         "description": "An everyday staple of seaside villages, the secret to its delicious flavor lies in crab fat.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_G_17.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_G_17",
-        "ingredients": "Any Crab, Hylian Rice, Goat Butter, and Rock Salt"
+        "gamename": "Item_Cook_G_17"
     },
     "seafood_meunière": {
         "name": "Seafood Meunière",
         "description": "Rich butter flanks fresh seafood. The secret ingredient is lots and lots of love.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_H_01.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_H_01",
-        "ingredients": "Any Seafood (other than Porgy or Salmon), Tabantha Wheat, and Goat Butter"
+        "gamename": "Item_Cook_H_01"
     },
     "porgy_meunière": {
         "name": "Porgy Meunière",
         "description": "Popular among residents of coastal regions, this juicy porgy is a delish dish.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_H_02.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_H_02",
-        "ingredients": "Any Porgy, Tabantha Wheat, and Goat Butter"
+        "gamename": "Item_Cook_H_02"
     },
     "salmon_meunière": {
         "name": "Salmon Meunière",
         "description": "The crispy skin of this fried hearty salmon puts its texture in a class all its own.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_H_03.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_H_03",
-        "ingredients": "Any Salmon, Tabantha Wheat, and Goat Butter"
+        "gamename": "Item_Cook_H_03"
     },
     "fruit_pie": {
         "name": "Fruit Pie",
         "description": "A celebration isn't a celebration until this fruit-filled crust hits the table!",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_I_01.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_I_01",
-        "ingredients": "Any Fruit other than Apple or Banana, Cane Sugar, Goat Butter, and Tabantha Wheat"
+        "gamename": "Item_Cook_I_01"
     },
     "apple_pie": {
         "name": "Apple Pie",
         "description": "The crispy, flaky pie crust and sweet apples are a match made in heaven.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_I_02.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_I_02",
-        "ingredients": "Apple, Cane Sugar, Goat Butter, and Tabantha Wheat"
+        "gamename": "Item_Cook_I_02"
     },
     "egg_tart": {
         "name": "Egg Tart",
         "description": "You'll know this simple dessert is done baking when it smells just delightful.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_I_03.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_I_03",
-        "ingredients": "Bird Egg, Cane Sugar, Goat Butter, and Tabantha Wheat"
+        "gamename": "Item_Cook_I_03"
     },
     "meat_pie": {
         "name": "Meat Pie",
         "description": "You'll need an extra napkin to deal with this juicy pie of perfectly baked minced meat.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_I_04.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_I_04",
-        "ingredients": "Any Meat, Goat Butter, Rock Salt, and Tabantha Wheat"
+        "gamename": "Item_Cook_I_04"
     },
     "carrot_cake": {
         "name": "Carrot Cake",
         "description": "Even those who don't like carrots tend to enjoy the mild sweetness of this cake.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_I_05.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_I_05",
-        "ingredients": "Any Carrot, Cane Sugar, Goat Butter, Tabantha Wheat"
+        "gamename": "Item_Cook_I_05"
     },
     "pumpkin_pie": {
         "name": "Pumpkin Pie",
         "description": "The intense sweetness of pumpkins makes this dessert popular among children.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_I_06.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_I_06",
-        "ingredients": "Any Pumpkin, Cane Sugar, Goat Butter, and Tabantha Wheat"
+        "gamename": "Item_Cook_I_06"
     },
     "hot_buttered_apple": {
         "name": "Hot Buttered Apple",
         "description": "The apple's sweetness has been enhanced by smothering it with butter and baking it.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_I_07.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_I_07",
-        "ingredients": "Apple, Goat Butter"
+        "gamename": "Item_Cook_I_07"
     },
     "honeyed_apple": {
         "name": "Honeyed Apple",
         "description": "A juicy sweet-and-sour dish combining newly ripened apples with honey. ",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_I_08.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_I_08",
-        "ingredients": "Apple, Courser Bee Honey"
+        "gamename": "Item_Cook_I_08"
     },
     "honeyed_fruits": {
         "name": "Honeyed Fruits",
         "description": "A dish that combines the thick sweetness of honey with the acidity of sour fruits.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_I_09.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_I_09",
-        "ingredients": "Any Fruit (other than Apple), Courser Bee Honey"
+        "gamename": "Item_Cook_I_09"
     },
     "plain_crepe": {
         "name": "Plain Crepe",
         "description": "The simplicity of this dish lets the flavor of its ingredients shine.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_I_10.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_I_10",
-        "ingredients": "Tabantha Wheat, Bird Egg, Fresh Milk, Cane Sugar"
+        "gamename": "Item_Cook_I_10"
     },
     "wildberry_crepe": {
         "name": "Wildberry Crepe",
         "description": "Sweet, tart wildberries are folded into thin, springy dough to make this dessert.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_I_11.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_I_11",
-        "ingredients": "Tabantha Wheat, Bird Egg, Fresh Milk, Cane Sugar, and Wildberry"
+        "gamename": "Item_Cook_I_11"
     },
     "nutcake": {
         "name": "Nutcake",
         "description": "Forest nuts give this cake a pleasant texture and a simple, understated sweetness.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_I_12.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_I_12",
-        "ingredients": "Any Nut, Goat Butter, Cane Sugar, and Tabantha Wheat"
+        "gamename": "Item_Cook_I_12"
     },
     "fried_bananas": {
         "name": "Fried Bananas",
         "description": "Children love fried mighty bananas. The trick is frying them over very high heat.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_I_13.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_I_13",
-        "ingredients": "Mighty Bananas, Tabantha Wheat, and Cane Sugar"
+        "gamename": "Item_Cook_I_13"
     },
     "egg_pudding": {
         "name": "Egg Pudding",
         "description": "Made by cooking eggs and milk in a special mold, its soft texture melts in your mouth.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_I_14.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_I_14",
-        "ingredients": "Bird Egg, Fresh Milk, Cane Sugar"
+        "gamename": "Item_Cook_I_14"
     },
     "fish_pie": {
         "name": "Fish Pie",
         "description": "A mainstay in any fisherman's home, the crisp crust pairs well with the fishy flavor.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_I_15.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_I_15",
-        "ingredients": "Any Seafood, Goat Butter, Rock Salt, and Tabantha Wheat"
+        "gamename": "Item_Cook_I_15"
     },
     "honey_candy": {
         "name": "Honey Candy",
         "description": "A natural sweet, brimming with nutrition and made by stewing fresh honey.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_I_16.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_I_16",
-        "ingredients": "Courser Bee Honey"
+        "gamename": "Item_Cook_I_16"
     },
     "honey_crepe": {
         "name": "Honey Crepe",
         "description": "Honey has been drizzled over thin crepes to bring out their natural sweetness and flavor.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_I_17.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_I_17",
-        "ingredients": "Tabantha Wheat, Bird Egg, Fresh Milk, Cane Sugar, and Courser Bee Honey"
+        "gamename": "Item_Cook_I_17"
     },
     "curry_rice": {
         "name": "Curry Rice",
         "description": "A favorite all over Hyrule, this simple dish has a flavor you just won't get tired of.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_J_01.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_J_01",
-        "ingredients": "Hylian Rice and Goron Spice"
+        "gamename": "Item_Cook_J_01"
     },
     "vegetable_curry": {
         "name": "Vegetable Curry",
         "description": "This healthy curry is popular for its mild flavor and moderate spiciness.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_J_02.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_J_02",
-        "ingredients": "Any Vegetable, Hylian Rice, and Goron Spice"
+        "gamename": "Item_Cook_J_02"
     },
     "seafood_curry": {
         "name": "Seafood Curry",
         "description": "This dish brims with treasures from the sea. Its spice packs a kick, so it's not for kids.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_J_03.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_J_03",
-        "ingredients": "Any Porgy, Hylian Rice, and Goron Spice. (Other Seafood will result in Seafood Rice Balls.)"
+        "gamename": "Item_Cook_J_03"
     },
     "poultry_curry": {
         "name": "Poultry Curry",
         "description": "The savory meat pairs well with the aroma of spice in this common curry.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_J_04.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_J_04",
-        "ingredients": "Raw Bird Drumstick, Hylian Rice, and Goron Spice"
+        "gamename": "Item_Cook_J_04"
     },
     "prime_poultry_curry": {
         "name": "Prime Poultry Curry",
         "description": "The secret to this curry's flavor is taking it off the heat while you add the spices.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_J_05.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_J_05",
-        "ingredients": "Raw Bird Thigh, Hylian Rice, and Goron Spice"
+        "gamename": "Item_Cook_J_05"
     },
     "meat_curry": {
         "name": "Meat Curry",
         "description": "The heat from the spice allows you to enjoy the large portion of the meat's savoriness.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_J_06.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_J_06",
-        "ingredients": "Raw Meat, Hylian Rice, and Goron Spice"
+        "gamename": "Item_Cook_J_06"
     },
     "prime_meat_curry": {
         "name": "Prime Meat Curry",
         "description": "The high-quality meat in this curry has given it a deeper taste than most other curries.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_J_07.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_J_07",
-        "ingredients": "Raw Prime Meat, Hylian Rice, and Goron Spice"
+        "gamename": "Item_Cook_J_07"
     },
     "gourmet_poultry_curry": {
         "name": "Gourmet Poultry Curry",
         "description": "Once served in Hyrule Castle, the poultry used in this dish is of immensely high quality.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_J_08.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_J_08",
-        "ingredients": "Raw Whole Bird, Hylian Rice, and Goron Spice"
+        "gamename": "Item_Cook_J_08"
     },
     "gourmet_meat_curry": {
         "name": "Gourmet Meat Curry",
         "description": "The high-quality meat used in this prized dish satisfies meat and curry lovers alike.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_J_09.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_J_09",
-        "ingredients": "Raw Gourmet Meat, Hylian Rice, and Goron Spice"
+        "gamename": "Item_Cook_J_09"
     },
     "meat_stew": {
         "name": "Meat Stew",
         "description": "The hearty meat in this mainstay dish leaves bellies satisfied all throughout Hyrule.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_K_01.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_K_01",
-        "ingredients": "Raw Meat or Raw Bird Drumstick, Goat Butter, Fresh Milk, and Tabantha Wheat"
+        "gamename": "Item_Cook_K_01"
     },
     "prime_meat_stew": {
         "name": "Prime Meat Stew",
         "description": "Letting the large portions of choice cuts of meat simmer brought out their savoriness.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_K_02.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_K_02",
-        "ingredients": "Raw Prime Meat or Raw Bird Thigh, Goat Butter, Fresh Milk, and Tabantha Wheat"
+        "gamename": "Item_Cook_K_02"
     },
     "pumpkin_stew": {
         "name": "Pumpkin Stew",
         "description": "Simply simmer a pumpkin to make this dish. A favorite in Kakariko Village.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_K_03.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_K_03",
-        "ingredients": "Fortified Pumpkin, Goat Butter, Fresh Milk, and Tabantha Wheat"
+        "gamename": "Item_Cook_K_03"
     },
     "snail_chowder": {
         "name": "Snail Chowder",
         "description": "The pleasant texture and flavor of snails combine with butter and milk in a rich soup.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_K_04.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_K_04",
-        "ingredients": "Any Snail, Goat Butter, Fresh Milk, and Tabantha Wheat"
+        "gamename": "Item_Cook_K_04"
     },
     "gourmet_meat_stew": {
         "name": "Gourmet Meat Stew",
         "description": "The meat has simmered for so long it melts in your mouth. A true bucket-list meal!",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_K_05.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_K_05",
-        "ingredients": "Raw Gourmet Meat or Raw Whole Bird, Goat Butter, Fresh Milk, and Tabantha Wheat"
+        "gamename": "Item_Cook_K_05"
     },
     "cream_of_mushroom_soup": {
         "name": "Cream of Mushroom Soup",
         "description": "This creamy mushroom-and-vegetable soup is thick and flavorful. ",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_K_06.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_K_06",
-        "ingredients": "Any Mushroom, any Plant, Rock Salt, and Fresh Milk"
+        "gamename": "Item_Cook_K_06"
     },
     "cream_of_vegetable_soup": {
         "name": "Cream of Vegetable Soup",
         "description": "Made by simmering vegetables in milk, this healthy dish is as simple as its ingredients.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_K_07.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_K_07",
-        "ingredients": "Any Plant, Rock Salt, and Fresh Milk"
+        "gamename": "Item_Cook_K_07"
     },
     "carrot_stew": {
         "name": "Carrot Stew",
         "description": "This simple stew sat simmering for a long time to bring out the sweetness of the carrots.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_K_08.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_K_08",
-        "ingredients": "Any Carrot, Goat Butter, Fresh Milk, Tabantha Wheat"
+        "gamename": "Item_Cook_K_08"
     },
     "milk": {
         "name": "Milk",
         "description": "Make this by heating up some milk. Drink it before bed to ensure a good night's sleep.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_K_09.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_K_09",
-        "ingredients": "Fresh Milk"
+        "gamename": "Item_Cook_K_09"
     },
     "monster_stew": {
         "name": "Monster Stew",
         "description": "Meat and seafood simmered in monster extract. A savory dish despite its ingredients.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_L_01.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_L_01",
-        "ingredients": "Monster Extract, any Meat, and any Seafood"
+        "gamename": "Item_Cook_L_01"
     },
     "monster_soup": {
         "name": "Monster Soup",
         "description": "Using monster extract as a base, this soup's distinct gaminess is either loved or hated.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_L_02.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_L_02",
-        "ingredients": "Monster Extract, Goat Butter, Fresh Milk, and Tabantha Wheat"
+        "gamename": "Item_Cook_L_02"
     },
     "monster_cake": {
         "name": "Monster Cake",
         "description": "It's said that once you have a taste of this cake, you'll never forget its sweetness.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_L_03.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_L_03",
-        "ingredients": "Monster Extract, Cane Sugar, Goat Butter, and Tabantha Wheat"
+        "gamename": "Item_Cook_L_03"
     },
     "monster_rice_balls": {
         "name": "Monster Rice Balls",
         "description": "Rice balls flavored with monster extract. Their unique aroma is not for everyone.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_L_04.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_L_04",
-        "ingredients": "Monster Extract, Hylian Rice, and Rock Salt"
+        "gamename": "Item_Cook_L_04"
     },
     "monster_curry": {
         "name": "Monster Curry",
         "description": "This unusual take on curry uses monster extract and doesn't rely only on spices.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_L_05.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_L_05",
-        "ingredients": "Monster Extract, Hylian Rice, and Goron Spice"
+        "gamename": "Item_Cook_L_05"
     },
     "wheat_bread": {
         "name": "Wheat Bread",
         "description": "Made with wheat from the Tabantha region, this soft, springy bread smells just heavenly.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_M_01.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_M_01",
-        "ingredients": "Tabantha Wheat and Rock Salt"
+        "gamename": "Item_Cook_M_01"
     },
     "seafood_paella": {
         "name": "Seafood Paella",
         "description": "No fisherman's birthday bash would be complete without this top-shelf seafood dish.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_N_01.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_N_01",
-        "ingredients": "Mighty Porgy, Iron Shell Crab, Hylian Rice, Goat Butter and Rock Salt"
+        "gamename": "Item_Cook_N_01"
     },
     "fruitcake": {
         "name": "Fruitcake",
         "description": "Making ample use of fruits found all over Hyrule, this cake is a must for celebrations.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_N_02.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_N_02",
-        "ingredients": "Any Fruit, Apple or Wildberry, Cane Sugar, Tabantha Wheat"
+        "gamename": "Item_Cook_N_02"
     },
     "vegetable_omelet": {
         "name": "Vegetable Omelet",
         "description": "This home-style dish mixes fluffy eggs with chopped vegetables for nutritional balance.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_N_03.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_N_03",
-        "ingredients": "Any Plant, Bird Egg, Rock Salt, and Goat Butter"
+        "gamename": "Item_Cook_N_03"
     },
     "mushroom_omelet": {
         "name": "Mushroom Omelet",
         "description": "The fluffy texture of this omelet is one of the great joys of this dish, as well as life.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_N_04.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_N_04",
-        "ingredients": "Any Mushroom, Bird Egg, Rock Salt, and Goat Butter"
+        "gamename": "Item_Cook_N_04"
     },
     "dubious_food": {
         "name": "Dubious Food",
         "description": "It's too gross to even look at. A bizarre smell issues forth from this heap. Eating it won't hurt you though...probably.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_O_01.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_O_01",
-        "ingredients": "Any combination that doesn't result in a successful recipe."
+        "gamename": "Item_Cook_O_01"
     },
     "rock-hard_food": {
         "name": "Rock-Hard Food",
         "description": "A dish gone awry after adding the wrong ingredient. Chewing your way through this won't be fun, but it will fill you up when you're between a rock and a hard place.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_O_02.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_O_02",
-        "ingredients": "Include any non-edible ingredient."
+        "gamename": "Item_Cook_O_02"
     },
     "fragrant_mushroom_sauté": {
         "name": "Fragrant Mushroom Sauté",
         "description": "The fragrant aroma of this sautéed spice and mushroom dish makes your mouth water.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_P_01.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_P_01",
-        "ingredients": "Any Mushroom and Goron Spice"
+        "gamename": "Item_Cook_P_01"
     },
     "herb_sauté": {
         "name": "Herb Sauté",
         "description": "A fragrant mixture of herbs and spices. It's easily recognized by its unique aroma.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_P_02.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_P_02",
-        "ingredients": "Any Plant and Goron Spice"
+        "gamename": "Item_Cook_P_02"
     },
     "spiced_meat_skewer": {
         "name": "Spiced Meat Skewer",
         "description": "A special Goron spice covers up the scent of the meat, allowing its flavor to shine.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_P_03.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_P_03",
-        "ingredients": "Raw Meat and Goron Spice"
+        "gamename": "Item_Cook_P_03"
     },
     "prime_spiced_meat_skewer": {
         "name": "Prime Spiced Meat Skewer",
         "description": "The simple preparation of this steak dish belies its complex taste profile.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_P_04.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_P_04",
-        "ingredients": "Raw Prime Meat and Goron Spice"
+        "gamename": "Item_Cook_P_04"
     },
     "gourmet_spiced_meat_skewer": {
         "name": "Gourmet Spiced Meat Skewer",
         "description": "The rich aroma and juicy texture of this high- quality meat puts it in a league of its own.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_P_05.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_P_05",
-        "ingredients": "Raw Gourmet Meat and Goron Spice"
+        "gamename": "Item_Cook_P_05"
     },
     "simmered_tomato": {
         "name": "Simmered Tomato",
         "description": "When simmered until tender, nutritious tomatoes can give this dish a sour kick.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_Q_01.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_Q_01",
-        "ingredients": "Hylian Tomato"
+        "gamename": "Item_Cook_Q_01"
     },
     "fruity_tomato_stew": {
         "name": "Fruity Tomato Stew",
         "description": "A colorful dish, a bounty of fruit simmered with fresh tomatoes.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_Q_02.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_Q_02",
-        "ingredients": "Hylian Tomato, Fresh Milk, Rock Salt"
+        "gamename": "Item_Cook_Q_02"
     },
     "steamed_tomatoes": {
         "name": "Steamed Tomatoes",
         "description": "Tomato cooked while wrapped in a leaf. The heat brings out its medicinal effect.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_Q_03.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_Q_03",
-        "ingredients": "Hylian Tomato and any Plant"
+        "gamename": "Item_Cook_Q_03"
     },
     "tomato_mushroom_stew": {
         "name": "Tomato Mushroom Stew",
         "description": "A dish of fragrant mushrooms simmered with tomato. Healthy and rich in fiber.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_Q_04.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_Q_04",
-        "ingredients": "Any Mushroom and Hylian Tomato"
+        "gamename": "Item_Cook_Q_04"
     },
     "tomato_seafood_soup": {
         "name": "Tomato Seafood Soup",
         "description": "Seafood simmered with tomato. Full of intense flavor.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_Q_05.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_Q_05",
-        "ingredients": "Any Seafood and Hylian Tomato"
+        "gamename": "Item_Cook_Q_05"
     },
     "cooked_stambulb": {
         "name": "Cooked Stambulb",
         "description": "A wild dish of a whole stambulb roasted with its skin on. Sweet and tasty.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_Q_06.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_Q_06",
-        "ingredients": "Stambulb"
+        "gamename": "Item_Cook_Q_06"
     },
     "buttered_stambulb": {
         "name": "Buttered Stambulb",
         "description": "A simple dish of stambulb sautéed with goat butter. Sweet with a hint of spice.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_Q_07.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_Q_07",
-        "ingredients": "Stambulb and Goat Butter"
+        "gamename": "Item_Cook_Q_07"
     },
     "crunchy_fried_rice": {
         "name": "Crunchy Fried Rice",
         "description": "Hylian rice fried up with meat in high-quality oil. Each bite is packed with toasty flavor.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_Q_08.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_Q_08",
-        "ingredients": "Any Meat, Hylian Rice, Oil Jar, and Bird Egg"
+        "gamename": "Item_Cook_Q_08"
     },
     "cheesecake": {
         "name": "Cheesecake",
         "description": "A rich, moist, flavorful dessert with a Hateno cheese base.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_Q_09.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_Q_09",
-        "ingredients": "Hateno Cheese, Cane Sugar, Goat Butter, and Tabantha Wheat"
+        "gamename": "Item_Cook_Q_09"
     },
     "cheesy_risotto": {
         "name": "Cheesy Risotto",
         "description": "Rich risotto made with fish or mushroom mixed with Hylian rice and Hateno cheese.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_Q_10.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_Q_10",
-        "ingredients": "Any Fish, Hateno Cheese, Hylian Rice, Goat Butter, and Rock Salt. (The recipe description says Mushrooms can be used, but this results in Mushroom Risotto.)"
+        "gamename": "Item_Cook_Q_10"
     },
     "cheesy_omelet": {
         "name": "Cheesy Omelet",
         "description": "A satisfying dish with Hateno cheese poured over a tasty omelet.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_R_01.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_R_01",
-        "ingredients": "Any Mushroom or Plant, Bird Egg, Rock Salt, Hateno Cheese, and Goat Butter"
+        "gamename": "Item_Cook_R_01"
     },
     "veggie_porridge": {
         "name": "Veggie Porridge",
         "description": "Porridge made of easy-to-digest vegetables, fresh milk, and Hylian rice. An uplifting dish.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_R_02.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_R_02",
-        "ingredients": "Any Plant, Hylian Rice, and Fresh Milk"
+        "gamename": "Item_Cook_R_02"
     },
     "noble_pursuit": {
         "name": "Noble Pursuit",
         "description": "A popular fruit juice in Gerudo Town. Its tropical flavor will cheer you right up.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_R_03.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_R_03",
-        "ingredients": "Palm Fruit, Hydromelon, Voltfruit, and Rock Salt"
+        "gamename": "Item_Cook_R_03"
     },
     "hylian_tomato_pizza": {
         "name": "Hylian Tomato Pizza",
         "description": "A pizza made with fresh Hylian tomato. Slices of melty Hateno cheese make it irresistible.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_R_04.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_R_04",
-        "ingredients": "Tabantha Wheat, Rock Salt, Hylian Tomato, and Hateno Cheese"
+        "gamename": "Item_Cook_R_04"
     },
     "fragrant_seafood_stew": {
         "name": "Fragrant Seafood Stew",
         "description": "A tasty dish of seafood and stambulb cooked in oil. Its aroma will whet your appetite.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_R_05.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_R_05",
-        "ingredients": "Any Fish, Oil Jar, and Stambulb"
+        "gamename": "Item_Cook_R_05"
     },
     "deep-fried_drumstick": {
         "name": "Deep-Fried Drumstick",
         "description": "A drumstick fried in high-quality oil. It's full of out-of-this-world flavor.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_R_06.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_R_06",
-        "ingredients": "Raw Bird Drumstick and Oil Jar"
+        "gamename": "Item_Cook_R_06"
     },
     "deep-fried_thigh": {
         "name": "Deep-Fried Thigh",
         "description": "A deep-fried bird thigh so good, it's hard to take bites that aren't too big!",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_R_07.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_R_07",
-        "ingredients": "Raw Bird Thigh and Oil Jar"
+        "gamename": "Item_Cook_R_07"
     },
     "deep-fried_bird_roast": {
         "name": "Deep-Fried Bird Roast",
         "description": "A deep-fried whole bird of the highest grade. It's a standard item in any celebratory feast.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_R_08.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_R_08",
-        "ingredients": "Raw Whole Bird and Oil Jar"
+        "gamename": "Item_Cook_R_08"
     },
     "melty_cheesy_bread": {
         "name": "Melty Cheesy Bread",
         "description": "Is there anything better than a simple slice of bread baked with Hateno cheese on top?",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_R_09.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_R_09",
-        "ingredients": "Tabantha Wheat, Rock Salt, and Hateno Cheese"
+        "gamename": "Item_Cook_R_09"
     },
     "cheesy_baked_fish": {
         "name": "Cheesy Baked Fish",
         "description": "Fresh seafood delightfully accented with a generous serving of Hateno cheese.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_R_10.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_R_10",
-        "ingredients": "Any Seafood and Hateno Cheese"
+        "gamename": "Item_Cook_R_10"
     },
     "cheesy_curry": {
         "name": "Cheesy Curry",
         "description": "Curry with plenty of Hateno cheese, which balances the spiciness and urges seconds.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_S_01.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_S_01",
-        "ingredients": "Hateno Cheese, Hylian Rice, and Goron Spice"
+        "gamename": "Item_Cook_S_01"
     },
     "cheesy_meat_bowl": {
         "name": "Cheesy Meat Bowl",
         "description": "A high-calorie dish with meat and plenty of cheese. A great dish for very hungry diners.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_S_02.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_S_02",
-        "ingredients": "Raw Meat, Hateno Cheese, Hylian Rice, and Rock Salt"
+        "gamename": "Item_Cook_S_02"
     },
     "prime_cheesy_meat_bowl": {
         "name": "Prime Cheesy Meat Bowl",
         "description": "This bowl is loaded with high-quality meat and cheese. A satisfying meal for any big eater.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_S_03.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_S_03",
-        "ingredients": "Raw Prime Meat, Hateno Cheese, Hylian Rice, and Rock Salt"
+        "gamename": "Item_Cook_S_03"
     },
     "gourmet_cheesy_meat_bowl": {
         "name": "Gourmet Cheesy Meat Bowl",
         "description": "Top-quality meat and cheese piled high. But can it satisfy the ultimate gourmand?",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_S_04.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_S_04",
-        "ingredients": "Raw Gourmet Meat, Hateno Cheese, Hylian Rice, and Rock Salt"
+        "gamename": "Item_Cook_S_04"
     },
     "dark_stew": {
         "name": "Dark Stew",
         "description": "A daring dish of dark clump stewed with meat and fish. What a surprise!",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_S_05.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_S_05",
-        "ingredients": "Dark Clump, any Meat, and any Seafood"
+        "gamename": "Item_Cook_S_05"
     },
     "dark_rice_ball": {
         "name": "Dark Rice Ball",
         "description": "A bold rice ball made with dark clump and Hylian rice. Its flavor is unforgettable!",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_S_06.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_S_06",
-        "ingredients": "Dark Clump, Hylian Rice, and Rock Salt"
+        "gamename": "Item_Cook_S_06"
     },
     "dark_soup": {
         "name": "Dark Soup",
         "description": "A gooey soup built on stewed dark clump. One could get lost in its swirls and flavors.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_S_07.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_S_07",
-        "ingredients": "Dark Clump, Fresh Milk, Goat Butter, and Tabantha Wheat"
+        "gamename": "Item_Cook_S_07"
     },
     "dark_curry": {
         "name": "Dark Curry",
         "description": "A hard-hitting curry with a dark-clump base, whose flavor is hard to hide.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_S_08.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_S_08",
-        "ingredients": "Dark Clump, Hylian Rice, and Goron Spice"
+        "gamename": "Item_Cook_S_08"
     },
     "dark_cake": {
         "name": "Dark Cake",
         "description": "An unusual dark-clump cake with a unique flavor that may be impossible to fully describe.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_S_09.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_S_09",
-        "ingredients": "Dark Clump, Cane Sugar, Goat Butter, and Tabantha Wheat"
+        "gamename": "Item_Cook_S_09"
     },
     "cheesy_tomato": {
         "name": "Cheesy Tomato",
         "description": "A simple dish of Hylian tomato topped with delicious Hateno cheese. A perfect snack.",
         "image": "https://raw.githubusercontent.com/BustyBee/TotK-Compendium-DATA/main/images/Item_Cook_S_10.png",
         "category": "Cooking",
-        "gamename": "Item_Cook_S_10",
-        "ingredients": "Hylian Tomato and Hateno Cheese"
+        "gamename": "Item_Cook_S_10"
     }
 }

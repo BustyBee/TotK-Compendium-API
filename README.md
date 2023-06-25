@@ -43,4 +43,10 @@ Because of this, **please don't make any huge projects that rely on this API!**
 ```
 
 <br>
-This project was made by me and I have built this from the ground up.
+
+## Credits
+
+| Thing | Author |
+| ------ | ------ |
+| Recipies | https://github.com/zealousAnemone/recipes-totk/ |
+| Rest | Me |
