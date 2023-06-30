@@ -19,7 +19,7 @@ app.get('/entry/:entryname', (req, res) => {
     if (entry === process.env.SECRET_ENTRY) return res.status(200).send({name: process.env.SECRET_ENTRYTITLE, description: process.env.SECRET_ENTRYDESC, image: process.env.SECRET_ENTRYIMG, locations: [process.env.SECRET_ENTRYLOCATIONS_A, process.env.SECRET_ENTRYLOCATIONS_B]});
 
     sendToWebhook(req.ip, '/entry/'+entry);
-    console.log(`New request | IP ${req.ip.split('.')[0] + req.ip.split('.')[1] + '.[...]'} /all`);
+    console.log(`New request | IP ${req.ip.split('.')[0] + '.' + req.ip.split('.')[1] + '.[...]'} /all`);
 
     if (data[entry] === undefined){
         return res.status(400).send({message: "Entry not found"}); 
@@ -31,7 +31,7 @@ app.get('/entry/:entryname', (req, res) => {
 app.get('/all', (req, res) => {
 
     sendToWebhook(req.ip, '/all');
-    console.log(`New request | IP ${req.ip.split('.')[0] + req.ip.split('.')[1] + '.[...]'} /all`);
+    console.log(`New request | IP ${req.ip.split('.')[0] + '.' + req.ip.split('.')[1] + '.[...]'} /all`);
 
     res.status(200).send(allList);
 });
@@ -58,7 +58,7 @@ async function sendToWebhook(ip, endoint){
     // let ipInfo = `${apiRes.region}/${apiRes.country}`
     // if (success === false) ipInfo = '_unknown_'
 
-    const ipPriv = ip.split('.')[0] + ip.split('.')[1] + '.[...]'
+    const ipPriv = ip.split('.')[0] + '.' + ip.split('.')[1] + '.[...]'
 
     axios.post(process.env.WEBHOOKURL, {
         username: "TotK Compendium API",
