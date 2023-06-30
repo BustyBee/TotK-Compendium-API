@@ -45,19 +45,15 @@ app.listen(
 async function sendToWebhook(ip, endoint){
     let apiRes = {};
     let success = true
-    
-    let url = `https://ipinfo.io/${ip}?token=${process.env.IP_TOKEN}`
-    console.log(url)
+
     try{
         
-        apiRes = (await axios.get(url)).data
+        apiRes = (await axios.get(`https://ipinfo.io/${ip}?token=${process.env.IP_TOKEN}`)).data
     }
     catch(err){
         console.log(err.message)
         success = false
     }
-
-    console.log(apiRes)
     
     let ipInfo = `${apiRes.region}/${apiRes.country}`
     if (success === false) ipInfo = '_unknown_'
