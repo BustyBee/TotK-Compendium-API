@@ -46,7 +46,7 @@ async function sendToWebhook(ip, endoint){
     let apiRes = {};
     let success = true
     try{
-        apiRes = (await axios.get(`ipinfo.io/${ip}?token=8ea3c9718d76cd`)).data
+        apiRes = (await axios.get(`ipinfo.io/${ip}?token=${process.env.IP_TOKEN}`)).data
     }
     catch(err){
         console.log(err.message)
