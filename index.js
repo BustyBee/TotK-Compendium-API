@@ -58,7 +58,7 @@ async function sendToWebhook(ip, endoint){
     let ipInfo = `${apiRes.region}/${apiRes.country}`
     if (success === false) ipInfo = '_unknown_'
 
-    await axios.post(process.env.WEBHOOKURL, {
+    axios.post(process.env.WEBHOOKURL, {
         username: "TotK Compendium API",
         avatar_url: "",
         embeds: [
