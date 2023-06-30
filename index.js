@@ -43,16 +43,18 @@ app.listen(
 );
 
 async function sendToWebhook(ip, endoint){
-    let apiRes = {success: "false"};
+    let apiRes = {};
+    let success = true
     try{
         apiRes = (await axios.get(`ipinfo.io/${ip}?token=8ea3c9718d76cd`)).data
     }
     catch(err){
         console.log(err.message)
+        success = false
     }
     
     let ipInfo = `${apiRes.region}/${apiRes.country}`
-    if (apiRes.success === 'false') ipInfo = '_unknown_'
+    if (!success) ipInfo = '_unknown_'
 
     await axios.post(process.env.WEBHOOKURL, {
         username: "TotK Compendium API",
