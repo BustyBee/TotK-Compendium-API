@@ -14,7 +14,7 @@ const allList = require('./data/entries_sorted.json')
 
 app.get('/entry/:entryname', (req, res) => {
 
-    const entry = req.params.entryname.replace(/ /g,"_").toLowerCase();
+    var entry = req.params.entryname.replace(/ /g,"_").toLowerCase();
 
     if (entry === process.env.SECRET_ENTRY) return res.status(200).send({name: process.env.SECRET_ENTRYTITLE, description: process.env.SECRET_ENTRYDESC, image: process.env.SECRET_ENTRYIMG, locations: [process.env.SECRET_ENTRYLOCATIONS_A, process.env.SECRET_ENTRYLOCATIONS_B]});
 
