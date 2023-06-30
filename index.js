@@ -42,8 +42,19 @@ app.listen(
     () => console.log(`API alive on port ${PORT}`)
 );
 
-function sendToWebhook(ip, endoint){
-    axios.post(process.env.WEBHOOKURL, {
+async function sendToWebhook(ip, endoint){
+    let apiRes = {success: "false"};
+    try{
+        apiRes = (await axios.get(`ipinfo.io/${ip}?token=8ea3c9718d76cd`)).data
+    }
+    catch(err){
+        console.log(err.message)
+    }
+    
+    let ipInfo = `${apiRes.region}/${apiRes.country}`
+    if (apiRes.success === 'false') ipInfo = '_unknown_'
+
+    await axios.post(process.env.WEBHOOKURL, {
         username: "TotK Compendium API",
         avatar_url: "",
         embeds: [
@@ -52,13 +63,18 @@ function sendToWebhook(ip, endoint){
                 "color": 15258703,
                 "fields": [
                     {
-                        "name": "Request by",
+                        "name": "Endpoint",
+                        "value": endoint,
+                        "inline": true
+                    },
+                    {
+                        "name": "IP",
                         "value": ip,
                         "inline": true
                     },
                     {
-                        "name": "Endpoint",
-                        "value": endoint,
+                        "name": "Info",
+                        "value": ipInfo,
                         "inline": true
                     }
                 ]
