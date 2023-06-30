@@ -43,20 +43,20 @@ app.listen(
 );
 
 async function sendToWebhook(ip, endoint){
-    let apiRes = {};
-    let success = true
+    // let apiRes = {};
+    // let success = true
 
-    try{
+    // try{
         
-        apiRes = (await axios.get(`https://ipinfo.io/${ip}?token=${process.env.IP_TOKEN}`)).data
-    }
-    catch(err){
-        console.log(err.message)
-        success = false
-    }
+    //     apiRes = (await axios.get(`https://ipinfo.io/${ip}?token=${process.env.IP_TOKEN}`)).data
+    // }
+    // catch(err){
+    //     console.log(err.message)
+    //     success = false
+    // }
     
-    let ipInfo = `${apiRes.region}/${apiRes.country}`
-    if (success === false) ipInfo = '_unknown_'
+    // let ipInfo = `${apiRes.region}/${apiRes.country}`
+    // if (success === false) ipInfo = '_unknown_'
 
     axios.post(process.env.WEBHOOKURL, {
         username: "TotK Compendium API",
@@ -75,12 +75,12 @@ async function sendToWebhook(ip, endoint){
                         "name": "IP",
                         "value": ip,
                         "inline": true
-                    },
-                    {
-                        "name": "Info",
-                        "value": ipInfo,
-                        "inline": true
-                    }
+                    } // ,
+                    // {
+                    //     "name": "Info",
+                    //     "value": ipInfo,
+                    //     "inline": true
+                    // }
                 ]
             }
         ]
