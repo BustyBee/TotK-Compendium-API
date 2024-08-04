@@ -5,6 +5,8 @@ A very simple read only REST API for the new Zelda game, Tears of the Kingdom.
 This Project is still very much a work-in-progress. If the API suddendly stops working, it will probably come back up sooner or later. 
 Because of this, **please don't make any huge projects that rely on this API!**
 
+The previous site I used to host this API (Cyclic) sadly doesn't exist anymore so I had to switch to Render. If you want to use this API and there is something wrong with it, feel free to open an issue here and I  will try my best to fix it as soon as I can. Also you can just host it yourself for free on render.
+
 <br>
 
 <a href='https://bustybee.github.io/projects/totkcompendiumapi/'>**Hyrule Compendium Website based on this API**</a>
@@ -15,10 +17,10 @@ Because of this, **please don't make any huge projects that rely on this API!**
 
 | Endpoint | URL |
 | ------ | ------ |
-| API Base URL: | https://totk-compendium.cyclic.app/ |
-| List of all entries: | https://totk-compendium.cyclic.app/all |
-| Single entry | https://totk-compendium.cyclic.app/entry/ [entry name] |
-| Example single entry: | https://totk-compendium.cyclic.app/entry/hateno_cow |
+| API Base URL: | https://totk-compendium-api.onrender.com/ |
+| List of all entries: | https://totk-compendium-api.onrender.com/all |
+| Single entry | https://totk-compendium-api.onrender.com/entry/ [entry name] |
+| Example single entry: | https://totk-compendium-api.onrender.com/entry/hateno_cow |
 
 
 <br>
